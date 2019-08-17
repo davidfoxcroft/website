@@ -16,7 +16,7 @@ baseurl = "https://davidfoxcroft.netlify.com/"
 copyright = "&copy; David Foxcroft {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-145899249-1"
 
 ############################
 ## Advanced options below ##

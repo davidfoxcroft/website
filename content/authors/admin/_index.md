@@ -5,13 +5,13 @@ education:
   courses:
   - course: PhD Psychology
     institution: Hull University
-    year: 1993
+#    year: 1993
   - course: PGDIP Evidence Based Health Care
     institution: Oxford University
-    year: 1999
+#    year: 1999
   - course: BSc Psychology
     institution: Hull University
-    year: 1990
+#    year: 1990
 email: ''
 interests:
 - Behavioural Health
@@ -47,4 +47,8 @@ user_groups:
 - Visitors
 ---
 
-I'm an academic psychologist working in the UK. I've had academic posts at the Universities of Portsmouth and Southampton and now work at Oxford Brookes University. I've also taught and examined at many other Universities in the UK and overseas.  My programme of research is focused on understanding (and improving) behaviour in context, especially how social structures (e.g. families, schools, communities, employers, regulation, government) can support improved health and wellbeing in communities and populations. A focus is the prevention of risk behaviours in children and young people.
+I'm an academic psychologist working in the UK. I've previously worked at the Universities of Portsmouth and Southampton, and also ran a NHS R&D Support Unit for a while. Now I work at Oxford Brookes University and teach across the Psychology and the Public Health BSc, MSc and PhD Degrees. I've also taught and examined at many other Universities in the UK and overseas.  
+
+My programme of research is focused on understanding (and improving) behaviour in context, especially how social structures (e.g. families, schools, communities, employers, regulation, government) can support improved health and wellbeing in communities and populations. A focus is the prevention of risk behaviours in children and young people. 
+
+We have an excellent training programme for PhD students, and I am a postgraduate supervisor and tutor for several students. If you are interested in pursuing a PhD in behavioural health or prevention then please get in touch to discuss.
