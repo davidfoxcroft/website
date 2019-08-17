@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Gates | David Foxcroft PhD CPsychol</title>
+    <link>/authors/simon-gates/</link>
+      <atom:link href="/authors/simon-gates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Gates</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Simon Gates</title>
+      <link>/authors/simon-gates/</link>
+    </image>
+    
+    <item>
+      <title>Auricular Acupuncture for Cocaine Dependence</title>
+      <link>/publication/gates-2006-auricular/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/gates-2006-auricular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interventions for Prevention of Drug Use by Young People Delivered in Non-School Settings (Protocol)</title>
+      <link>/publication/mccambridge-2004-interventions/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/mccambridge-2004-interventions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

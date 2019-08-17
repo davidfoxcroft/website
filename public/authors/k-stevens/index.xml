@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Stevens | David Foxcroft PhD CPsychol</title>
+    <link>/authors/k-stevens/</link>
+      <atom:link href="/authors/k-stevens/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Stevens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>K Stevens</title>
+      <link>/authors/k-stevens/</link>
+    </image>
+    
+    <item>
+      <title>Organisational Infrastructures to Promote Evidence Based Nursing Practice (Cochrane Review)</title>
+      <link>/publication/foxcroft-2003-organisational/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2003-organisational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

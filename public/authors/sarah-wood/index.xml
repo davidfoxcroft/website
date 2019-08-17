@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah Wood | David Foxcroft PhD CPsychol</title>
+    <link>/authors/sarah-wood/</link>
+      <atom:link href="/authors/sarah-wood/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah Wood</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Sarah Wood</title>
+      <link>/authors/sarah-wood/</link>
+    </image>
+    
+    <item>
+      <title>Motivational Interviewing for the Prevention of Alcohol Misuse in Young Adults</title>
+      <link>/publication/foxcroft-2016-motivational/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2016-motivational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

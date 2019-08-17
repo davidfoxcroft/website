@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James D Sargent | David Foxcroft PhD CPsychol</title>
+    <link>/authors/james-d-sargent/</link>
+      <atom:link href="/authors/james-d-sargent/index.xml" rel="self" type="application/rss+xml" />
+    <description>James D Sargent</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>James D Sargent</title>
+      <link>/authors/james-d-sargent/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Entertainment Media Smoking on Adolescent Smoking Behaviours</title>
+      <link>/publication/bhaumik-2015-impact/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/bhaumik-2015-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

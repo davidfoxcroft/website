@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarah E Hennelly | David Foxcroft PhD CPsychol</title>
+    <link>/authors/sarah-e-hennelly/</link>
+      <atom:link href="/authors/sarah-e-hennelly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarah E Hennelly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Sarah E Hennelly</title>
+      <link>/authors/sarah-e-hennelly/</link>
+    </image>
+    
+    <item>
+      <title>Personalized Digital Interventions Showed No Impact on Risky Drinking in Young Adults: A Pilot Randomized Controlled Trial</title>
+      <link>/publication/davies-2017-personalized/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/davies-2017-personalized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

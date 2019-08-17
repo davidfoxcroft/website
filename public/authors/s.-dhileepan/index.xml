@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Dhileepan | David Foxcroft PhD CPsychol</title>
+    <link>/authors/s.-dhileepan/</link>
+      <atom:link href="/authors/s.-dhileepan/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Dhileepan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>S. Dhileepan</title>
+      <link>/authors/s.-dhileepan/</link>
+    </image>
+    
+    <item>
+      <title>Early Extubation for Adult Cardiac Surgical Patients</title>
+      <link>/publication/hawkes-early-extubation-adult-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/hawkes-early-extubation-adult-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

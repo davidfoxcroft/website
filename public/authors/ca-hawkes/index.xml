@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CA Hawkes | David Foxcroft PhD CPsychol</title>
+    <link>/authors/ca-hawkes/</link>
+      <atom:link href="/authors/ca-hawkes/index.xml" rel="self" type="application/rss+xml" />
+    <description>CA Hawkes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>CA Hawkes</title>
+      <link>/authors/ca-hawkes/</link>
+    </image>
+    
+    <item>
+      <title>Early Tracheal Extubation for Adult Cardiac Surgical Patients</title>
+      <link>/publication/hawkes-2004-early/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/hawkes-2004-early/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

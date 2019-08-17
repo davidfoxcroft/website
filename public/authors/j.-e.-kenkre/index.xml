@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. E. Kenkre | David Foxcroft PhD CPsychol</title>
+    <link>/authors/j.-e.-kenkre/</link>
+      <atom:link href="/authors/j.-e.-kenkre/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. E. Kenkre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>J. E. Kenkre</title>
+      <link>/authors/j.-e.-kenkre/</link>
+    </image>
+    
+    <item>
+      <title>Career Pathways in Research: Academic.</title>
+      <link>/publication/kenkre-career-pathways-research-2001-b/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/kenkre-career-pathways-research-2001-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career Pathways in Research: Clinical Research.</title>
+      <link>/publication/kenkre-career-pathways-research-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/kenkre-career-pathways-research-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career Pathways in Research: Pharmaceutical</title>
+      <link>/publication/kenkre-career-pathways-research-2001-c/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/kenkre-career-pathways-research-2001-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career Pathways in Research: Support and Management.</title>
+      <link>/publication/kenkre-career-pathways-research-2001-a/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/kenkre-career-pathways-research-2001-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

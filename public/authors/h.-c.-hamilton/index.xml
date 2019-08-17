@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. C. Hamilton | David Foxcroft PhD CPsychol</title>
+    <link>/authors/h.-c.-hamilton/</link>
+      <atom:link href="/authors/h.-c.-hamilton/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. C. Hamilton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>H. C. Hamilton</title>
+      <link>/authors/h.-c.-hamilton/</link>
+    </image>
+    
+    <item>
+      <title>Cochrane Corner</title>
+      <link>/publication/hamilton-cochrane-corner-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/hamilton-cochrane-corner-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

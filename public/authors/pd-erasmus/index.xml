@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PD Erasmus | David Foxcroft PhD CPsychol</title>
+    <link>/authors/pd-erasmus/</link>
+      <atom:link href="/authors/pd-erasmus/index.xml" rel="self" type="application/rss+xml" />
+    <description>PD Erasmus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>PD Erasmus</title>
+      <link>/authors/pd-erasmus/</link>
+    </image>
+    
+    <item>
+      <title>Crossover, Randomized, Controlled Study to Compare the Cuffed Oropharyngeal Airway (COPA) and the Laryngeal Mask Airway (LMA) for Establishing an Airway by Non-Anaesthetists</title>
+      <link>/publication/ismail-1999-crossover/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/ismail-1999-crossover/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

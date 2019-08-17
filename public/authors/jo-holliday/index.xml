@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jo Holliday | David Foxcroft PhD CPsychol</title>
+    <link>/authors/jo-holliday/</link>
+      <atom:link href="/authors/jo-holliday/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jo Holliday</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Jo Holliday</title>
+      <link>/authors/jo-holliday/</link>
+    </image>
+    
+    <item>
+      <title>Cultural Adaptation and Intervention Integrity: A Response to Skärstrand, Sundell and Andréasson</title>
+      <link>/publication/segrott-2014-cultural/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/segrott-2014-cultural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing Substance Misuse: Study Protocol for a Randomised Controlled Trial of the Strengthening Families Programme 10--14 UK (SFP 10--14 UK)</title>
+      <link>/publication/segrott-2014-preventing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/segrott-2014-preventing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pragmatic Trials of Non-NHS Interventions: Experiences from a Randomised Controlled Trial of the Strengthening Families 10-14 UK Programme (SFP10-14 UK)</title>
+      <link>/publication/holliday-2011-pragmatic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/holliday-2011-pragmatic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Fulbrook | David Foxcroft PhD CPsychol</title>
+    <link>/authors/p-fulbrook/</link>
+      <atom:link href="/authors/p-fulbrook/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Fulbrook</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>P Fulbrook</title>
+      <link>/authors/p-fulbrook/</link>
+    </image>
+    
+    <item>
+      <title>Organisational Infrastructures to Promote Evidence Based Nursing Practice (Cochrane Review)</title>
+      <link>/publication/foxcroft-2003-organisational/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2003-organisational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

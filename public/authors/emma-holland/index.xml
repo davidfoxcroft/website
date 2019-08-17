@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma Holland | David Foxcroft PhD CPsychol</title>
+    <link>/authors/emma-holland/</link>
+      <atom:link href="/authors/emma-holland/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emma Holland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Emma Holland</title>
+      <link>/authors/emma-holland/</link>
+    </image>
+    
+    <item>
+      <title>Is Nurse-Led Thrombolysis Clinically Safe, Beneficial and Acceptable?</title>
+      <link>/publication/holland-2000-nurse/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/holland-2000-nurse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

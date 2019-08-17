@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Yerrell | David Foxcroft PhD CPsychol</title>
+    <link>/authors/p.-yerrell/</link>
+      <atom:link href="/authors/p.-yerrell/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Yerrell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>P. Yerrell</title>
+      <link>/authors/p.-yerrell/</link>
+    </image>
+    
+    <item>
+      <title>Clinical Guideline for Nurse-Led Early Extubation after Coronary Artery Bypass: An Evaluation.</title>
+      <link>/publication/hawkes-clinical-guideline-nurseled-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hawkes-clinical-guideline-nurseled-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

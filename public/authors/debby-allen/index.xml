@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debby Allen | David Foxcroft PhD CPsychol</title>
+    <link>/authors/debby-allen/</link>
+      <atom:link href="/authors/debby-allen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debby Allen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Debby Allen</title>
+      <link>/authors/debby-allen/</link>
+    </image>
+    
+    <item>
+      <title>Motivational Interviewing for the Prevention of Alcohol Misuse in Young Adults</title>
+      <link>/publication/foxcroft-2016-motivational/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2016-motivational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Child Behaviour Management: An Evaluation of the Good Behaviour Game in UK Primary Schools</title>
+      <link>/publication/chan-2012-improving/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/chan-2012-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Strengthening Families Programme (SFP) 10-14 and Substance Misuse in Barnsley: The Perspectives of Facilitators and Families</title>
+      <link>/publication/coombes-2009-strengthening/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/coombes-2009-strengthening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effectiveness of Universal Youth Substance Abuse Prevention Programs</title>
+      <link>/publication/foxcroft-2007-effectiveness/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2007-effectiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cultural Accommodation of the Strengthening Families Programme 10--14: UK Phase I Study</title>
+      <link>/publication/allen-2006-cultural/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/allen-2006-cultural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

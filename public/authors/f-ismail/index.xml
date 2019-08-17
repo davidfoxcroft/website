@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Ismail | David Foxcroft PhD CPsychol</title>
+    <link>/authors/f-ismail/</link>
+      <atom:link href="/authors/f-ismail/index.xml" rel="self" type="application/rss+xml" />
+    <description>F Ismail</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>F Ismail</title>
+      <link>/authors/f-ismail/</link>
+    </image>
+    
+    <item>
+      <title>Crossover, Randomized, Controlled Study to Compare the Cuffed Oropharyngeal Airway (COPA) and the Laryngeal Mask Airway (LMA) for Establishing an Airway by Non-Anaesthetists</title>
+      <link>/publication/ismail-1999-crossover/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/ismail-1999-crossover/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

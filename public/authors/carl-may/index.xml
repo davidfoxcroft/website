@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carl May | David Foxcroft PhD CPsychol</title>
+    <link>/authors/carl-may/</link>
+      <atom:link href="/authors/carl-may/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carl May</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 01 Jan 1994 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Carl May</title>
+      <link>/authors/carl-may/</link>
+    </image>
+    
+    <item>
+      <title>Adolescent Alcohol Use and Family Influences: Attributive Statements by Teenage Drinkers</title>
+      <link>/publication/foxcroft-1994-adolescent/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-1994-adolescent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

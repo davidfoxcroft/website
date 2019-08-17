@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Gillespie | David Foxcroft PhD CPsychol</title>
+    <link>/authors/david-gillespie/</link>
+      <atom:link href="/authors/david-gillespie/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Gillespie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>David Gillespie</title>
+      <link>/authors/david-gillespie/</link>
+    </image>
+    
+    <item>
+      <title>Fidelity of Implementation of the Strengthening Families Programme 10-14 UK in Wales UK: A Mixed-Method Process Evaluation within a Randomised Controlled trialLaurence Moore</title>
+      <link>/publication/segrott-2014-fidelity/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/segrott-2014-fidelity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing Substance Misuse: Study Protocol for a Randomised Controlled Trial of the Strengthening Families Programme 10--14 UK (SFP 10--14 UK)</title>
+      <link>/publication/segrott-2014-preventing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/segrott-2014-preventing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strengthening Families Programme (10-14UK) Substance Misuse Prevention Programme: Findings from NPRI Randomised Trial of a Proportionate Universalism Adaptation of an Intervention for Families with Children Aged 10-14</title>
+      <link>/publication/moore-2014-strengthening/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/moore-2014-strengthening/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

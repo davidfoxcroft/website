@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heather Rothwell | David Foxcroft PhD CPsychol</title>
+    <link>/authors/heather-rothwell/</link>
+      <atom:link href="/authors/heather-rothwell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heather Rothwell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Heather Rothwell</title>
+      <link>/authors/heather-rothwell/</link>
+    </image>
+    
+    <item>
+      <title>Cultural Adaptation and Intervention Integrity: A Response to Skärstrand, Sundell and Andréasson</title>
+      <link>/publication/segrott-2014-cultural/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/segrott-2014-cultural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing Substance Misuse: Study Protocol for a Randomised Controlled Trial of the Strengthening Families Programme 10--14 UK (SFP 10--14 UK)</title>
+      <link>/publication/segrott-2014-preventing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/segrott-2014-preventing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strengthening Families Programme (10-14UK) Substance Misuse Prevention Programme: Findings from NPRI Randomised Trial of a Proportionate Universalism Adaptation of an Intervention for Families with Children Aged 10-14</title>
+      <link>/publication/moore-2014-strengthening/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/moore-2014-strengthening/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory Smith | David Foxcroft PhD CPsychol</title>
+    <link>/authors/gregory-smith/</link>
+      <atom:link href="/authors/gregory-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gregory Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Gregory Smith</title>
+      <link>/authors/gregory-smith/</link>
+    </image>
+    
+    <item>
+      <title>The Normal and the Abnormal in Adolescent Drinking</title>
+      <link>/publication/lowe-1996-normal/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/lowe-1996-normal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

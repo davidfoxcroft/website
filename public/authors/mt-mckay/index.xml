@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MT McKay | David Foxcroft PhD CPsychol</title>
+    <link>/authors/mt-mckay/</link>
+      <atom:link href="/authors/mt-mckay/index.xml" rel="self" type="application/rss+xml" />
+    <description>MT McKay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>MT McKay</title>
+      <link>/authors/mt-mckay/</link>
+    </image>
+    
+    <item>
+      <title>Steps Towards Alcohol Misuse Prevention Programme (STAMPP): A School-and Community-Based Cluster Randomised Controlled Trial</title>
+      <link>/publication/sumnall-2017-steps/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sumnall-2017-steps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

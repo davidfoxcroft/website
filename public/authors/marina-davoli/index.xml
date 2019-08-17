@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marina Davoli | David Foxcroft PhD CPsychol</title>
+    <link>/authors/marina-davoli/</link>
+      <atom:link href="/authors/marina-davoli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marina Davoli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Marina Davoli</title>
+      <link>/authors/marina-davoli/</link>
+    </image>
+    
+    <item>
+      <title>Cochrane Systematic Reviews in the Field of Addiction: What&#39;s There and What Should Be</title>
+      <link>/publication/amato-2011-cochrane/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/amato-2011-cochrane/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benedikt Fischer | David Foxcroft PhD CPsychol</title>
+    <link>/authors/benedikt-fischer/</link>
+      <atom:link href="/authors/benedikt-fischer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benedikt Fischer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Benedikt Fischer</title>
+      <link>/authors/benedikt-fischer/</link>
+    </image>
+    
+    <item>
+      <title>Drug Policy and the Public Good: A Summary of the Second Edition</title>
+      <link>/publication/babor-2019-drug/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/babor-2019-drug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug Policy and the Public Good: Evidence for Effective Interventions</title>
+      <link>/publication/strang-2012-drug/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/strang-2012-drug/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

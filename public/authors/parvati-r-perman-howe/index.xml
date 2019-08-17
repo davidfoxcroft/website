@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parvati R Perman-Howe | David Foxcroft PhD CPsychol</title>
+    <link>/authors/parvati-r-perman-howe/</link>
+      <atom:link href="/authors/parvati-r-perman-howe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parvati R Perman-Howe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Parvati R Perman-Howe</title>
+      <link>/authors/parvati-r-perman-howe/</link>
+    </image>
+    
+    <item>
+      <title>The Classification and Organisation of Alcohol Misuse Prevention with a Focus on Environmental Prevention</title>
+      <link>/publication/perman-2018-classification/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/perman-2018-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Alcohol Strength on Alcohol Consumption: A Randomised Controlled Cross-over Pilot Trial</title>
+      <link>/publication/perman-2018-effect/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/perman-2018-effect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

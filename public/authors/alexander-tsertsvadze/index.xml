@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Tsertsvadze | David Foxcroft PhD CPsychol</title>
+    <link>/authors/alexander-tsertsvadze/</link>
+      <atom:link href="/authors/alexander-tsertsvadze/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander Tsertsvadze</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Alexander Tsertsvadze</title>
+      <link>/authors/alexander-tsertsvadze/</link>
+    </image>
+    
+    <item>
+      <title>Cochrane Review: Universal School-Based Prevention Programs for Alcohol Misuse in Young People</title>
+      <link>/publication/foxcroft-2012-cochrane/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2012-cochrane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Alcohol Misuse Prevention Programmes for Children and Adolescents: Cochrane Systematic Reviews</title>
+      <link>/publication/foxcroft-2012-universal/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2012-universal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal School-Based Prevention Programs for Alcohol Misuse in Young People</title>
+      <link>/publication/foxcroft-universal-schoolbased-prevention-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-universal-schoolbased-prevention-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

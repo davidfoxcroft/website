@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hayley Thomas | David Foxcroft PhD CPsychol</title>
+    <link>/authors/hayley-thomas/</link>
+      <atom:link href="/authors/hayley-thomas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hayley Thomas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Hayley Thomas</title>
+      <link>/authors/hayley-thomas/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy of Alcohol Use Disorders Identification Test for Detecting Problem Drinking in 18--35 Year-Olds in England: Method Comparison Study</title>
+      <link>/publication/foxcroft-2014-accuracy/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2014-accuracy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

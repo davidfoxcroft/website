@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Ireland | David Foxcroft PhD CPsychol</title>
+    <link>/authors/d.-ireland/</link>
+      <atom:link href="/authors/d.-ireland/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Ireland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>D. Ireland</title>
+      <link>/authors/d.-ireland/</link>
+    </image>
+    
+    <item>
+      <title>Longer-Term Primary Prevention for Alcohol Misuse in Young People: Cochrane Systematic Review</title>
+      <link>/publication/foxcroft-longerterm-primary-prevention-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-longerterm-primary-prevention-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longer-Term Primary Prevention for Alcohol Misuse in Young People: A Systematic Review</title>
+      <link>/publication/foxcroft-longerterm-primary-prevention-2003-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-longerterm-primary-prevention-2003-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Prevention for Alcohol Misuse in Young People</title>
+      <link>/publication/foxcroft-primary-prevention-alcohol-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-primary-prevention-alcohol-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | David Foxcroft PhD CPsychol</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Action-Oriented Predictive Processing as a Bellwether for Ecological and Psychological Research in Alcohol Misuse</title>
+      <link>/publication/hill-2014-action/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/hill-2014-action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strengthening Families Programme (10-14UK) Substance Misuse Prevention Programme: Findings from NPRI Randomised Trial of a Proportionate Universalism Adaptation of an Intervention for Families with Children Aged 10-14</title>
+      <link>/publication/moore-2014-strengthening/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/moore-2014-strengthening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Use of Non-Randomized Studies in the Cochrane Reviews on Drug and Alcohol</title>
+      <link>/publication/vigna-2005-use/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/vigna-2005-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crossover, Randomized, Controlled Study to Compare the Cuffed Oropharyngeal Airway (COPA) and the Laryngeal Mask Airway (LMA) for Establishing an Airway by Non-Anaesthetists</title>
+      <link>/publication/ismail-1999-crossover/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/ismail-1999-crossover/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teresa Moreira | David Foxcroft PhD CPsychol</title>
+    <link>/authors/teresa-moreira/</link>
+      <atom:link href="/authors/teresa-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teresa Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Teresa Moreira</title>
+      <link>/authors/teresa-moreira/</link>
+    </image>
+    
+    <item>
+      <title>The Effectiveness of Brief Personalized Normative Feedback in Reducing Alcohol-Related Problems amongst University Students: Protocol for a Randomized Controlled Trial</title>
+      <link>/publication/moreira-effectiveness-brief-personalized-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/moreira-effectiveness-brief-personalized-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

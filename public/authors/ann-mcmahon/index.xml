@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ann McMahon | David Foxcroft PhD CPsychol</title>
+    <link>/authors/ann-mcmahon/</link>
+      <atom:link href="/authors/ann-mcmahon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ann McMahon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Ann McMahon</title>
+      <link>/authors/ann-mcmahon/</link>
+    </image>
+    
+    <item>
+      <title>Research Career Pathways</title>
+      <link>/publication/kenkre-2001-research/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/kenkre-2001-research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

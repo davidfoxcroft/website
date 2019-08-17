@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Arvers | David Foxcroft PhD CPsychol</title>
+    <link>/authors/p.-arvers/</link>
+      <atom:link href="/authors/p.-arvers/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Arvers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>P. Arvers</title>
+      <link>/authors/p.-arvers/</link>
+    </image>
+    
+    <item>
+      <title>Adolescent Drinking in Europe: Alcohol Culture and Family Influence</title>
+      <link>/publication/arvers-adolescent-drinking-europe-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/arvers-adolescent-drinking-europe-1996/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
