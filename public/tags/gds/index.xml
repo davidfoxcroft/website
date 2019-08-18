@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDS | David Foxcroft PhD CPsychol</title>
+    <link>/tags/gds/</link>
+      <atom:link href="/tags/gds/index.xml" rel="self" type="application/rss+xml" />
+    <description>GDS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>GDS</title>
+      <link>/tags/gds/</link>
+    </image>
+    
+    <item>
+      <title>GDS and alcohol messages</title>
+      <link>/project/5-gds/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/5-gds/</guid>
+      <description>&lt;p&gt;We are using data from the Global Drug Survey to analyse the impact of different alcohol information messages across countries. Using a bayesian multivariate mixed modelling approach we are estimating posterior probabilities using partial pooling of random effects. One challenge is how to convey / report the complex results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@ publishDate: 2019-08-17T06:52:40.057266Z
 authors: ["Andrew Percy", "Ashley Agus", "Jon Cole", "Paul Doherty", "David Foxcroft", "Séamus Harvey", "Michael McKay", "Lynn Murphy", "Harry Sumnall"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Prevention science*"
 ---
 

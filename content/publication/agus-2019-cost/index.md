@@ -5,7 +5,7 @@ publishDate: 2019-08-17T06:52:40.060536Z
 authors: ["Ashley Agus", "Michael McKay", "Jonathan Cole", "Paul Doherty", "David Foxcroft", "Séamus Harvey", "Lynn Murphy", "Andrew Percy", "Harry Sumnall"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*BMJ open*"
 ---
 

@@ -5,7 +5,7 @@ publishDate: 2019-08-17T06:52:40.049379Z
 authors: ["Kimberley M Hill", "Michael Pilling", "David R Foxcroft"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*European Journal of Social Psychology*"
 ---
 

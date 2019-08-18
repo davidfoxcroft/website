@@ -5,7 +5,7 @@ publishDate: 2019-08-17T06:52:40.053231Z
 authors: ["Leanne Lester", "Richard Midford", "David Foxcroft", "Helen Cahill"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*International Journal of Health Promotion and Education*"
 ---
 

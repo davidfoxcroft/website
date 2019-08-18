@@ -5,7 +5,7 @@ publishDate: 2019-08-17T06:52:40.039693Z
 authors: ["Briony J Enser", "Jane V Appleton", "David R Foxcroft"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Drugs: Education, Prevention and Policy*"
 ---
 
