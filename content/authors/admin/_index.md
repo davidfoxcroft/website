@@ -6,7 +6,7 @@ education:
   - course: PhD Psychology
     institution: Hull University
 #    year: 1993
-  - course: PGDIP Evidence Based Health Care
+  - course: PGDip Evidence Based Health Care
     institution: Oxford University
 #    year: 1999
   - course: BSc Psychology
