@@ -5,7 +5,7 @@
     <link>/authors/others/</link>
       <atom:link href="/authors/others/index.xml" rel="self" type="application/rss+xml" />
     <description> others</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 18 Aug 2019 15:57:04 +0100</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title> others</title>
@@ -13,33 +13,41 @@
     </image>
     
     <item>
-      <title>Drug Policy and the Public Good: A Summary of the Second Edition</title>
-      <link>/publication/babor-2019-drug/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/babor-2019-drug/</guid>
+      <title>Family-Based Prevention Programmes for Alcohol Use in Young People</title>
+      <link>/publication/gilligan-2019-family/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/publication/gilligan-2019-family/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Family-Based Prevention Programmes for Alcohol Use in Young People</title>
-      <link>/publication/gilligan-2019-family/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/gilligan-2019-family/</guid>
+      <title>Drug Policy and the Public Good: A Summary of the Second Edition</title>
+      <link>/publication/babor-2019-drug/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/publication/babor-2019-drug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fidelity of Implementation of the Strengthening Families Programme 10-14 UK in Wales UK: A Mixed-Method Process Evaluation within a Randomised Controlled trialLaurence Moore</title>
       <link>/publication/segrott-2014-fidelity/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/publication/segrott-2014-fidelity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pragmatic Trials of Non-NHS Interventions: Experiences from a Randomised Controlled Trial of the Strengthening Families 10-14 UK Programme (SFP10-14 UK)</title>
+      <link>/publication/holliday-2011-pragmatic/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/publication/holliday-2011-pragmatic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preventing Substance Misuse: Study Protocol for a Randomised Controlled Trial of the Strengthening Families Programme 10--14 UK (SFP 10--14 UK)</title>
       <link>/publication/segrott-2014-preventing/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/publication/segrott-2014-preventing/</guid>
       <description></description>
     </item>
@@ -47,23 +55,15 @@
     <item>
       <title>Strengthening Families Programme (10-14UK) Substance Misuse Prevention Programme: Findings from NPRI Randomised Trial of a Proportionate Universalism Adaptation of an Intervention for Families with Children Aged 10-14</title>
       <link>/publication/moore-2014-strengthening/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/publication/moore-2014-strengthening/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pragmatic Trials of Non-NHS Interventions: Experiences from a Randomised Controlled Trial of the Strengthening Families 10-14 UK Programme (SFP10-14 UK)</title>
-      <link>/publication/holliday-2011-pragmatic/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/holliday-2011-pragmatic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Use of Non-Randomized Studies in the Cochrane Reviews on Drug and Alcohol</title>
       <link>/publication/vigna-2005-use/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/publication/vigna-2005-use/</guid>
       <description></description>
     </item>

@@ -28,7 +28,7 @@ googleAnalytics = "UA-145899249-1"
 theme = "hugo-academic" 
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -71,3 +71,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+  
+[frontmatter]
+  date = [":git", ":fileModTime", "publishDate", "lastmod"]
+  lastmod = [":git", ":fileModTime", "lastmod", "date", "publishDate"]
+  publishDate = [":git", ":fileModTime", "publishDate", "date"]
+  expiryDate = ["expiryDate"]
+

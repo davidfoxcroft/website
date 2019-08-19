@@ -20,7 +20,9 @@ interests:
 name: David Foxcroft
 organizations:
 - name: Oxford Brookes University
-  url: ''
+  url: 'https://www.brookes.ac.uk/templates/pages/staff.aspx?uid=p0072582'
+- name: Prevention Science Group
+  url: 'https://sites.google.com/brookes.ac.uk/prevention-science-group/home'
 role: Professor of Community Psychology and Public Health
 social:
 - icon: envelope

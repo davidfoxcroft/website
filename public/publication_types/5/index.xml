@@ -5,7 +5,7 @@
     <link>/publication_types/5/</link>
       <atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 12:09:50 +0100</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>5</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Learning Statistics with Jamovi: A Tutorial for Psychology Students and Other Beginners (Version 0.70)</title>
+      <title>Drug Policy and the Public Good: Second Edition</title>
+      <link>/publication/babordppg/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/publication/babordppg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning statistics with jamovi: a tutorial for psychology students and other beginners (Version 0.70)</title>
       <link>/publication/navarrolearning/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
       <guid>/publication/navarrolearning/</guid>
       <description></description>
     </item>

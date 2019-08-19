@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 12:09:50 +0100</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Authors</title>
@@ -13,9 +13,361 @@
     </image>
     
     <item>
+      <title> John Strang</title>
+      <link>/authors/john-strang/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/john-strang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benedikt Fischer</title>
+      <link>/authors/benedikt-fischer/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/benedikt-fischer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Foxcroft</title>
+      <link>/authors/david-foxcroft/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/david-foxcroft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ingeborg Rossow</title>
+      <link>/authors/ingeborg-rossow/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/ingeborg-rossow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isidore Obot</title>
+      <link>/authors/isidore-obot/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/isidore-obot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Caulkins</title>
+      <link>/authors/jonathan-caulkins/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/jonathan-caulkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jürgen Rehm</title>
+      <link>/authors/jurgen-rehm/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/jurgen-rehm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María Elena Medina-Mora</title>
+      <link>/authors/maria-elena-medina-mora/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/maria-elena-medina-mora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Reuter</title>
+      <link>/authors/peter-reuter/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/peter-reuter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robin Room</title>
+      <link>/authors/robin-room/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/robin-room/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas F Babor</title>
+      <link>/authors/thomas-f-babor/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/authors/thomas-f-babor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> others</title>
+      <link>/authors/others/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amanda J Williams</title>
+      <link>/authors/amanda-j-williams/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/amanda-j-williams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Percy</title>
+      <link>/authors/andrew-percy/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/andrew-percy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashley Agus</title>
+      <link>/authors/ashley-agus/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/ashley-agus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Briony J Enser</title>
+      <link>/authors/briony-j-enser/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/briony-j-enser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conor Gilligan</title>
+      <link>/authors/conor-gilligan/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/conor-gilligan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danielle Navarro</title>
+      <link>/authors/danielle-navarro/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/danielle-navarro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David R Foxcroft</title>
+      <link>/authors/david-r-foxcroft/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/david-r-foxcroft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debby Allen</title>
+      <link>/authors/debby-allen/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/debby-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Stockings</title>
+      <link>/authors/emily-stockings/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/emily-stockings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harry Sumnall</title>
+      <link>/authors/harry-sumnall/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/harry-sumnall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helen Cahill</title>
+      <link>/authors/helen-cahill/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/helen-cahill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane V Appleton</title>
+      <link>/authors/jane-v-appleton/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/jane-v-appleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenny Tindall</title>
+      <link>/authors/jenny-tindall/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/jenny-tindall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon Cole</title>
+      <link>/authors/jon-cole/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/jon-cole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Cole</title>
+      <link>/authors/jonathan-cole/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/jonathan-cole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kimberley M Hill</title>
+      <link>/authors/kimberley-m-hill/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/kimberley-m-hill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leanne Lester</title>
+      <link>/authors/leanne-lester/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/leanne-lester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lindsey Coombes</title>
+      <link>/authors/lindsey-coombes/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/lindsey-coombes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luke Wolfenden</title>
+      <link>/authors/luke-wolfenden/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/luke-wolfenden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lynn Murphy</title>
+      <link>/authors/lynn-murphy/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/lynn-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Teresa Moreira</title>
+      <link>/authors/maria-teresa-moreira/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/maria-teresa-moreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melanie Kingsland</title>
+      <link>/authors/melanie-kingsland/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/melanie-kingsland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael McKay</title>
+      <link>/authors/michael-mckay/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/michael-mckay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Pilling</title>
+      <link>/authors/michael-pilling/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/michael-pilling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nerissa ML Almeida Santimano</title>
+      <link>/authors/nerissa-ml-almeida-santimano/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/nerissa-ml-almeida-santimano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Doherty</title>
+      <link>/authors/paul-doherty/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/paul-doherty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca K Hodder</title>
+      <link>/authors/rebecca-k-hodder/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/rebecca-k-hodder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Midford</title>
+      <link>/authors/richard-midford/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/richard-midford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Wood</title>
+      <link>/authors/sarah-wood/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/sarah-wood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shauna Sherker</title>
+      <link>/authors/shauna-sherker/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/shauna-sherker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séamus Harvey</title>
+      <link>/authors/seamus-harvey/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/seamus-harvey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tameka-Rae McFadyen</title>
+      <link>/authors/tameka-rae-mcfadyen/</link>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <guid>/authors/tameka-rae-mcfadyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Aug 2019 07:23:11 +0100</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an academic psychologist working in the UK. I&amp;rsquo;ve previously worked at the Universities of Portsmouth and Southampton, and also ran a NHS R&amp;amp;D Support Unit for a while. Now I work at Oxford Brookes University and teach across the Psychology and the Public Health BSc, MSc and PhD Degrees. I&amp;rsquo;ve also taught and examined at many other Universities in the UK and overseas.&lt;/p&gt;
 
@@ -26,353 +378,25 @@
     </item>
     
     <item>
-      <title> others</title>
-      <link>/authors/others/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/others/</guid>
+      <title>A. K. Hewitt</title>
+      <link>/authors/a.-k.-hewitt/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/a.-k.-hewitt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Amanda J Williams</title>
-      <link>/authors/amanda-j-williams/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/amanda-j-williams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andrew Percy</title>
-      <link>/authors/andrew-percy/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/andrew-percy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ashley Agus</title>
-      <link>/authors/ashley-agus/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ashley-agus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Benedikt Fischer</title>
-      <link>/authors/benedikt-fischer/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/benedikt-fischer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conor Gilligan</title>
-      <link>/authors/conor-gilligan/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/conor-gilligan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Danielle Navarro</title>
-      <link>/authors/danielle-navarro/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/danielle-navarro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Foxcroft</title>
-      <link>/authors/david-foxcroft/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/david-foxcroft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David R Foxcroft</title>
-      <link>/authors/david-r-foxcroft/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/david-r-foxcroft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emily Stockings</title>
-      <link>/authors/emily-stockings/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/emily-stockings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Harry Sumnall</title>
-      <link>/authors/harry-sumnall/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/harry-sumnall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ingeborg Rossow</title>
-      <link>/authors/ingeborg-rossow/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ingeborg-rossow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Isidore Obot</title>
-      <link>/authors/isidore-obot/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/isidore-obot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jenny Tindall</title>
-      <link>/authors/jenny-tindall/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jenny-tindall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jon Cole</title>
-      <link>/authors/jon-cole/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jon-cole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Caulkins</title>
-      <link>/authors/jonathan-caulkins/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jonathan-caulkins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Cole</title>
-      <link>/authors/jonathan-cole/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jonathan-cole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jürgen Rehm</title>
-      <link>/authors/jurgen-rehm/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jurgen-rehm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luke Wolfenden</title>
-      <link>/authors/luke-wolfenden/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/luke-wolfenden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lynn Murphy</title>
-      <link>/authors/lynn-murphy/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/lynn-murphy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>María Elena Medina-Mora</title>
-      <link>/authors/maria-elena-medina-mora/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-elena-medina-mora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Melanie Kingsland</title>
-      <link>/authors/melanie-kingsland/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/melanie-kingsland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael McKay</title>
-      <link>/authors/michael-mckay/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-mckay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paul Doherty</title>
-      <link>/authors/paul-doherty/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/paul-doherty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter Reuter</title>
-      <link>/authors/peter-reuter/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/peter-reuter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rebecca K Hodder</title>
-      <link>/authors/rebecca-k-hodder/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/rebecca-k-hodder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robin Room</title>
-      <link>/authors/robin-room/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/robin-room/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shauna Sherker</title>
-      <link>/authors/shauna-sherker/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/shauna-sherker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Séamus Harvey</title>
-      <link>/authors/seamus-harvey/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/seamus-harvey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tameka-Rae McFadyen</title>
-      <link>/authors/tameka-rae-mcfadyen/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/tameka-rae-mcfadyen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas F Babor</title>
-      <link>/authors/thomas-f-babor/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/thomas-f-babor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emma L Davies</title>
-      <link>/authors/emma-l-davies/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/emma-l-davies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hans-Günter Meyer-Thompson</title>
-      <link>/authors/hans-gunter-meyer-thompson/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/hans-gunter-meyer-thompson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heino Stöver</title>
-      <link>/authors/heino-stover/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/heino-stover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helen Cahill</title>
-      <link>/authors/helen-cahill/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/helen-cahill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jakob Manthey</title>
-      <link>/authors/jakob-manthey/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/jakob-manthey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kimberley M Hill</title>
-      <link>/authors/kimberley-m-hill/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/kimberley-m-hill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leanne Lester</title>
-      <link>/authors/leanne-lester/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/leanne-lester/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lynne Venning</title>
-      <link>/authors/lynne-venning/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/lynne-venning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Pilling</title>
-      <link>/authors/michael-pilling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-pilling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parvati R Perman-Howe</title>
-      <link>/authors/parvati-r-perman-howe/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/parvati-r-perman-howe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Richard Midford</title>
-      <link>/authors/richard-midford/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/richard-midford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robyn Ramsden</title>
-      <link>/authors/robyn-ramsden/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/robyn-ramsden/</guid>
+      <title>A. Kimber</title>
+      <link>/authors/a.-kimber/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/a.-kimber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam J Lonsdale</title>
       <link>/authors/adam-j-lonsdale/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/adam-j-lonsdale/</guid>
       <description></description>
     </item>
@@ -380,903 +404,71 @@
     <item>
       <title>Adam R Winstock</title>
       <link>/authors/adam-r-winstock/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/adam-r-winstock/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Aspasia E Paltoglou</title>
-      <link>/authors/aspasia-e-paltoglou/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/aspasia-e-paltoglou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Briony J Enser</title>
-      <link>/authors/briony-j-enser/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/briony-j-enser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DR Foxcroft</title>
-      <link>/authors/dr-foxcroft/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/dr-foxcroft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J Mihic</title>
-      <link>/authors/j-mihic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/j-mihic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jane V Appleton</title>
-      <link>/authors/jane-v-appleton/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/jane-v-appleton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jon C Cole</title>
-      <link>/authors/jon-c-cole/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/jon-c-cole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KRZYSZTOF Ostaszewski</title>
-      <link>/authors/krzysztof-ostaszewski/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/krzysztof-ostaszewski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Feric</title>
-      <link>/authors/m-feric/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/m-feric/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Kosir</title>
-      <link>/authors/m-kosir/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/m-kosir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MT McKay</title>
-      <link>/authors/mt-mckay/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/mt-mckay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nerissa ML Almeida Santimano</title>
-      <link>/authors/nerissa-ml-almeida-santimano/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/nerissa-ml-almeida-santimano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Talic</title>
-      <link>/authors/s-talic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/s-talic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sarah E Hennelly</title>
-      <link>/authors/sarah-e-hennelly/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/sarah-e-hennelly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V Kranzelic</title>
-      <link>/authors/v-kranzelic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/v-kranzelic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debby Allen</title>
-      <link>/authors/debby-allen/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/debby-allen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emma Davies</title>
-      <link>/authors/emma-davies/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/emma-davies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jilly Martin</title>
-      <link>/authors/jilly-martin/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/jilly-martin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lindsey Coombes</title>
-      <link>/authors/lindsey-coombes/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/lindsey-coombes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Teresa Moreira</title>
-      <link>/authors/maria-teresa-moreira/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-teresa-moreira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sarah Wood</title>
-      <link>/authors/sarah-wood/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/authors/sarah-wood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ceri Phillips</title>
-      <link>/authors/ceri-phillips/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/ceri-phillips/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Claire Hurlow</title>
-      <link>/authors/claire-hurlow/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/claire-hurlow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Claire Thomas</title>
-      <link>/authors/claire-thomas/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/claire-thomas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Gillespie</title>
-      <link>/authors/david-gillespie/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/david-gillespie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H Rothwell</title>
-      <link>/authors/h-rothwell/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/h-rothwell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hayley Reed</title>
-      <link>/authors/hayley-reed/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/hayley-reed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hayley Thomas</title>
-      <link>/authors/hayley-thomas/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/hayley-thomas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heather Rothwell</title>
-      <link>/authors/heather-rothwell/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/heather-rothwell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ioan Humphreys</title>
-      <link>/authors/ioan-humphreys/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/ioan-humphreys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J Scourfield</title>
-      <link>/authors/j-scourfield/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/j-scourfield/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeremy Segrott</title>
-      <link>/authors/jeremy-segrott/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/jeremy-segrott/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jo Holliday</title>
-      <link>/authors/jo-holliday/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/jo-holliday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joanne Holliday</title>
-      <link>/authors/joanne-holliday/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/joanne-holliday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Johanna Mitchell</title>
-      <link>/authors/johanna-mitchell/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/johanna-mitchell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Bryn Scourfield</title>
-      <link>/authors/jonathan-bryn-scourfield/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/jonathan-bryn-scourfield/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Scourfield</title>
-      <link>/authors/jonathan-scourfield/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/jonathan-scourfield/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kerenza Hood</title>
-      <link>/authors/kerenza-hood/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/kerenza-hood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laurence Anthony Russell Moore</title>
-      <link>/authors/laurence-anthony-russell-moore/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/laurence-anthony-russell-moore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laurence Moore</title>
-      <link>/authors/laurence-moore/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/laurence-moore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lesley A Smith</title>
-      <link>/authors/lesley-a-smith/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/lesley-a-smith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michelle Pose</title>
-      <link>/authors/michelle-pose/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/michelle-pose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sarah Howcutt</title>
-      <link>/authors/sarah-howcutt/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/sarah-howcutt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sarah Morgan-Trimmer</title>
-      <link>/authors/sarah-morgan-trimmer/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/sarah-morgan-trimmer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simon Murphy</title>
-      <link>/authors/simon-murphy/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/simon-murphy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Z Roberts</title>
-      <link>/authors/z-roberts/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/z-roberts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zoe Elizabeth Sara Roberts</title>
-      <link>/authors/zoe-elizabeth-sara-roberts/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/authors/zoe-elizabeth-sara-roberts/</guid>
+      <title>ALAN Kimber</title>
+      <link>/authors/alan-kimber/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/alan-kimber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexander Tsertsvadze</title>
       <link>/authors/alexander-tsertsvadze/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/alexander-tsertsvadze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ann McMahon</title>
+      <link>/authors/ann-mcmahon/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/ann-mcmahon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aspasia E Paltoglou</title>
+      <link>/authors/aspasia-e-paltoglou/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/aspasia-e-paltoglou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bernice Smurthwaite</title>
       <link>/authors/bernice-smurthwaite/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/bernice-smurthwaite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D Foxcroft</title>
-      <link>/authors/d-foxcroft/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/d-foxcroft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deborah Mary Allen</title>
-      <link>/authors/deborah-mary-allen/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/deborah-mary-allen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G Chan</title>
-      <link>/authors/g-chan/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/g-chan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gerd Flodgren</title>
-      <link>/authors/gerd-flodgren/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/gerd-flodgren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Strang</title>
-      <link>/authors/john-strang/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/john-strang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Katarzyna Okulicz-Kozaryn</title>
-      <link>/authors/katarzyna-okulicz-kozaryn/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/katarzyna-okulicz-kozaryn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Keith Humphreys</title>
-      <link>/authors/keith-humphreys/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/keith-humphreys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria T Moreira</title>
-      <link>/authors/maria-t-moreira/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-t-moreira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria Ximena Rojas-Reyes</title>
-      <link>/authors/maria-ximena-rojas-reyes/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/maria-ximena-rojas-reyes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nick Cole</title>
-      <link>/authors/nick-cole/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/nick-cole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reza Oskrochi</title>
-      <link>/authors/reza-oskrochi/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/reza-oskrochi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas Babor</title>
-      <link>/authors/thomas-babor/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/thomas-babor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C Phillips</title>
       <link>/authors/c-phillips/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/c-phillips/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fabrizio Faggiano</title>
-      <link>/authors/fabrizio-faggiano/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/fabrizio-faggiano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J Segrott</title>
-      <link>/authors/j-segrott/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/j-segrott/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K Hood</title>
-      <link>/authors/k-hood/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/k-hood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laura Amato</title>
-      <link>/authors/laura-amato/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/laura-amato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marina Davoli</title>
-      <link>/authors/marina-davoli/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/marina-davoli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Farrell</title>
-      <link>/authors/michael-farrell/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-farrell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>P Daniels</title>
-      <link>/authors/p-daniels/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/p-daniels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rober Ali</title>
-      <link>/authors/rober-ali/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/rober-ali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Murphy</title>
-      <link>/authors/s-murphy/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/s-murphy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Silvia Minozzi</title>
-      <link>/authors/silvia-minozzi/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/silvia-minozzi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simona Vecchi</title>
-      <link>/authors/simona-vecchi/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/simona-vecchi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Walter Ling</title>
-      <link>/authors/walter-ling/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/walter-ling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhao Chengzheng</title>
-      <link>/authors/zhao-chengzheng/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/authors/zhao-chengzheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C. Hawkes</title>
-      <link>/authors/c.-hawkes/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-hawkes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carole A. Joint</title>
-      <link>/authors/carole-a.-joint/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/authors/carole-a.-joint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Claire Fletcher</title>
-      <link>/authors/claire-fletcher/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/authors/claire-fletcher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. R. Foxcroftłdots</title>
-      <link>/authors/d.-r.-foxcroft%C5%82dots/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-r.-foxcroft%C5%82dots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tipu Z. Aziz</title>
-      <link>/authors/tipu-z.-aziz/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/authors/tipu-z.-aziz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kypros Kypri</title>
-      <link>/authors/kypros-kypri/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/kypros-kypri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Megan Marsh</title>
-      <link>/authors/megan-marsh/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/megan-marsh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vanessa Simonite</title>
-      <link>/authors/vanessa-simonite/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/vanessa-simonite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teresa Moreira</title>
-      <link>/authors/teresa-moreira/</link>
-      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/teresa-moreira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. R. Foxcroft</title>
-      <link>/authors/d.-r.-foxcroft/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-r.-foxcroft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. C. Hamilton</title>
-      <link>/authors/h.-c.-hamilton/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/h.-c.-hamilton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Smith</title>
-      <link>/authors/l.-smith/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-smith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Foxcroft</title>
-      <link>/authors/d.-foxcroft/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-foxcroft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Foxcroft D. R</title>
-      <link>/authors/david-foxcroft-d.-r/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/david-foxcroft-d.-r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helen C Hamilton</title>
-      <link>/authors/helen-c-hamilton/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/authors/helen-c-hamilton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. McCambridge</title>
-      <link>/authors/j.-mccambridge/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-mccambridge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. A. Smith</title>
-      <link>/authors/l.-a.-smith/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-a.-smith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Gates</title>
-      <link>/authors/s.-gates/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-gates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simon Gates</title>
-      <link>/authors/simon-gates/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/authors/simon-gates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. Ireland</title>
-      <link>/authors/d.-ireland/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-ireland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D. J. Lister-Sharp</title>
-      <link>/authors/d.-j.-lister-sharp/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-j.-lister-sharp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F Faggiano</title>
-      <link>/authors/f-faggiano/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/f-faggiano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>F Mathis</title>
-      <link>/authors/f-mathis/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/f-mathis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federica VIGNA-TAGLIANTI</title>
-      <link>/authors/federica-vigna-taglianti/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/federica-vigna-taglianti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Lowe</title>
-      <link>/authors/g.-lowe/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/g.-lowe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L Amato</title>
-      <link>/authors/l-amato/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/l-amato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M Davoli</title>
-      <link>/authors/m-davoli/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/m-davoli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Breen</title>
-      <link>/authors/r.-breen/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-breen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. Kimber</title>
-      <link>/authors/a.-kimber/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-kimber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E. A. McEvilly</title>
-      <link>/authors/e.-a.-mcevilly/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/e.-a.-mcevilly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H. Gage</title>
-      <link>/authors/h.-gage/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/h.-gage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Hart</title>
-      <link>/authors/j.-hart/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-hart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L. Storey</title>
-      <link>/authors/l.-storey/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/l.-storey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Cradock</title>
-      <link>/authors/s.-cradock/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-cradock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Hampson</title>
-      <link>/authors/s.-hampson/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-hampson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. C. Skinner</title>
-      <link>/authors/t.-c.-skinner/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-c.-skinner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A. K. Hewitt</title>
-      <link>/authors/a.-k.-hewitt/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/a.-k.-hewitt/</guid>
+      <title>C. A. Hawkes</title>
+      <link>/authors/c.-a.-hawkes/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/c.-a.-hawkes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C. A. Joint</title>
       <link>/authors/c.-a.-joint/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/c.-a.-joint/</guid>
       <description></description>
     </item>
@@ -1284,271 +476,807 @@
     <item>
       <title>C. Fletcher</title>
       <link>/authors/c.-fletcher/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/c.-fletcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Hawkes</title>
+      <link>/authors/c.-hawkes/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/c.-hawkes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Lewis</title>
+      <link>/authors/c.-lewis/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/c.-lewis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. May</title>
+      <link>/authors/c.-may/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/c.-may/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CA Hawkes</title>
       <link>/authors/ca-hawkes/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/ca-hawkes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>D. Shamley</title>
-      <link>/authors/d.-shamley/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-shamley/</guid>
+      <title>Carl May</title>
+      <link>/authors/carl-may/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/carl-may/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J. MacDonald</title>
-      <link>/authors/j.-macdonald/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-macdonald/</guid>
+      <title>Carole A. Joint</title>
+      <link>/authors/carole-a.-joint/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/carole-a.-joint/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jim McCambridge</title>
-      <link>/authors/jim-mccambridge/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/jim-mccambridge/</guid>
+      <title>Ceri Phillips</title>
+      <link>/authors/ceri-phillips/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/ceri-phillips/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>L Smith</title>
-      <link>/authors/l-smith/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/l-smith/</guid>
+      <title>Claire Fletcher</title>
+      <link>/authors/claire-fletcher/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/claire-fletcher/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R. B. Scott</title>
-      <link>/authors/r.-b.-scott/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-b.-scott/</guid>
+      <title>Claire Hurlow</title>
+      <link>/authors/claire-hurlow/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/claire-hurlow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>S Dhileepan</title>
-      <link>/authors/s-dhileepan/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/s-dhileepan/</guid>
+      <title>Claire Thomas</title>
+      <link>/authors/claire-thomas/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/claire-thomas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>T. Z. Aziz</title>
-      <link>/authors/t.-z.-aziz/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-z.-aziz/</guid>
+      <title>D Foxcroft</title>
+      <link>/authors/d-foxcroft/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d-foxcroft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C. A. Hawkes</title>
-      <link>/authors/c.-a.-hawkes/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-a.-hawkes/</guid>
+      <title>D. Combes</title>
+      <link>/authors/d.-combes/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-combes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Foxcroft</title>
+      <link>/authors/d.-foxcroft/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-foxcroft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Ireland</title>
+      <link>/authors/d.-ireland/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-ireland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. J. Lister-Sharp</title>
+      <link>/authors/d.-j.-lister-sharp/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-j.-lister-sharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. J. ListerSharp</title>
+      <link>/authors/d.-j.-listersharp/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-j.-listersharp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D. Lister-Sharp</title>
       <link>/authors/d.-lister-sharp/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/d.-lister-sharp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>K Stevens</title>
-      <link>/authors/k-stevens/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/k-stevens/</guid>
+      <title>D. ListerSharp</title>
+      <link>/authors/d.-listersharp/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-listersharp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>N Cole</title>
-      <link>/authors/n-cole/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/n-cole/</guid>
+      <title>D. R. Foxcroft</title>
+      <link>/authors/d.-r.-foxcroft/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-r.-foxcroft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>P Fulbrook</title>
-      <link>/authors/p-fulbrook/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/p-fulbrook/</guid>
+      <title>D. R. Foxcroftłdots</title>
+      <link>/authors/d.-r.-foxcroft%C5%82dots/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-r.-foxcroft%C5%82dots/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>P Jonhston</title>
-      <link>/authors/p-jonhston/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/p-jonhston/</guid>
+      <title>D. Shamley</title>
+      <link>/authors/d.-shamley/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/d.-shamley/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>S. Dhileepan</title>
-      <link>/authors/s.-dhileepan/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-dhileepan/</guid>
+      <title>David Foxcroft D. R</title>
+      <link>/authors/david-foxcroft-d.-r/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/david-foxcroft-d.-r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ET Hellandsjø Bu</title>
-      <link>/authors/et-hellandsj%C3%B8-bu/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/authors/et-hellandsj%C3%B8-bu/</guid>
+      <title>David Gillespie</title>
+      <link>/authors/david-gillespie/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/david-gillespie/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>G Relling</title>
-      <link>/authors/g-relling/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/authors/g-relling/</guid>
+      <title>David Robert Foxcroft</title>
+      <link>/authors/david-robert-foxcroft/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/david-robert-foxcroft/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>JE Ingebrigtsen</title>
-      <link>/authors/je-ingebrigtsen/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/authors/je-ingebrigtsen/</guid>
+      <title>David Sibley</title>
+      <link>/authors/david-sibley/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/david-sibley/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RG Watten</title>
-      <link>/authors/rg-watten/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/authors/rg-watten/</guid>
+      <title>Deborah Mary Allen</title>
+      <link>/authors/deborah-mary-allen/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/deborah-mary-allen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ann McMahon</title>
-      <link>/authors/ann-mcmahon/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/authors/ann-mcmahon/</guid>
+      <title>DJ Lister-Sharp</title>
+      <link>/authors/dj-lister-sharp/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/dj-lister-sharp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DJ Young</title>
       <link>/authors/dj-young/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/dj-young/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J. E. Kenkre</title>
-      <link>/authors/j.-e.-kenkre/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-e.-kenkre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Walker</title>
-      <link>/authors/j.-walker/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-walker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JD Young</title>
-      <link>/authors/jd-young/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/authors/jd-young/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joyce Kenkre</title>
-      <link>/authors/joyce-kenkre/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/authors/joyce-kenkre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>K. Shaw</title>
-      <link>/authors/k.-shaw/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/authors/k.-shaw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. E. Hampson</title>
-      <link>/authors/s.-e.-hampson/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-e.-hampson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ALAN Kimber</title>
-      <link>/authors/alan-kimber/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/authors/alan-kimber/</guid>
+      <title>DR Foxcroft</title>
+      <link>/authors/dr-foxcroft/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/dr-foxcroft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E ADELE McEVILLY</title>
       <link>/authors/e-adele-mcevilly/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/e-adele-mcevilly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. A. McEvilly</title>
+      <link>/authors/e.-a.-mcevilly/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/e.-a.-mcevilly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emma Davies</title>
+      <link>/authors/emma-davies/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/emma-davies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emma Holland</title>
       <link>/authors/emma-holland/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/emma-holland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emma L Davies</title>
+      <link>/authors/emma-l-davies/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/emma-l-davies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ET Hellandsjø Bu</title>
+      <link>/authors/et-hellandsj%C3%B8-bu/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/et-hellandsj%C3%B8-bu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Faggiano</title>
+      <link>/authors/f-faggiano/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/f-faggiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Ismail</title>
+      <link>/authors/f-ismail/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/f-ismail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F Mathis</title>
+      <link>/authors/f-mathis/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/f-mathis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabrizio Faggiano</title>
+      <link>/authors/fabrizio-faggiano/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/fabrizio-faggiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federica VIGNA-TAGLIANTI</title>
+      <link>/authors/federica-vigna-taglianti/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/federica-vigna-taglianti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FJ Alvarez</title>
+      <link>/authors/fj-alvarez/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/fj-alvarez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Chan</title>
+      <link>/authors/g-chan/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/g-chan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Lowe</title>
+      <link>/authors/g-lowe/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/g-lowe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G Relling</title>
+      <link>/authors/g-relling/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/g-relling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Lowe</title>
+      <link>/authors/g.-lowe/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/g.-lowe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoff Lowe</title>
+      <link>/authors/geoff-lowe/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/geoff-lowe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerd Flodgren</title>
+      <link>/authors/gerd-flodgren/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/gerd-flodgren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregory Smith</title>
+      <link>/authors/gregory-smith/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/gregory-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Rothwell</title>
+      <link>/authors/h-rothwell/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/h-rothwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. C. Hamilton</title>
+      <link>/authors/h.-c.-hamilton/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/h.-c.-hamilton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Gage</title>
+      <link>/authors/h.-gage/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/h.-gage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hans-Günter Meyer-Thompson</title>
+      <link>/authors/hans-gunter-meyer-thompson/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/hans-gunter-meyer-thompson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hayley Reed</title>
+      <link>/authors/hayley-reed/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/hayley-reed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hayley Thomas</title>
+      <link>/authors/hayley-thomas/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/hayley-thomas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heather Gage</title>
       <link>/authors/heather-gage/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/heather-gage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heather Rothwell</title>
+      <link>/authors/heather-rothwell/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/heather-rothwell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heino Stöver</title>
+      <link>/authors/heino-stover/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/heino-stover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helen C Hamilton</title>
+      <link>/authors/helen-c-hamilton/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/helen-c-hamilton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ioan Humphreys</title>
+      <link>/authors/ioan-humphreys/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/ioan-humphreys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Mihic</title>
+      <link>/authors/j-mihic/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j-mihic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Scourfield</title>
+      <link>/authors/j-scourfield/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j-scourfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Segrott</title>
+      <link>/authors/j-segrott/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j-segrott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Weill</title>
+      <link>/authors/j-weill/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j-weill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. E. Kenkre</title>
+      <link>/authors/j.-e.-kenkre/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j.-e.-kenkre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Hart</title>
+      <link>/authors/j.-hart/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j.-hart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. MacDonald</title>
+      <link>/authors/j.-macdonald/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j.-macdonald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. McCambridge</title>
+      <link>/authors/j.-mccambridge/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j.-mccambridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Walker</title>
+      <link>/authors/j.-walker/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/j.-walker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jakob Manthey</title>
+      <link>/authors/jakob-manthey/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jakob-manthey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JD Young</title>
+      <link>/authors/jd-young/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jd-young/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JE Ingebrigtsen</title>
+      <link>/authors/je-ingebrigtsen/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/je-ingebrigtsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeremy Segrott</title>
+      <link>/authors/jeremy-segrott/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jeremy-segrott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jilly Martin</title>
+      <link>/authors/jilly-martin/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jilly-martin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim McCambridge</title>
+      <link>/authors/jim-mccambridge/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jim-mccambridge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JO Hart</title>
       <link>/authors/jo-hart/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/jo-hart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jo Holliday</title>
+      <link>/authors/jo-holliday/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jo-holliday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joanne Holliday</title>
+      <link>/authors/joanne-holliday/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/joanne-holliday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johanna Mitchell</title>
+      <link>/authors/johanna-mitchell/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/johanna-mitchell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon C Cole</title>
+      <link>/authors/jon-c-cole/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jon-c-cole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Bryn Scourfield</title>
+      <link>/authors/jonathan-bryn-scourfield/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jonathan-bryn-scourfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Scourfield</title>
+      <link>/authors/jonathan-scourfield/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/jonathan-scourfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joyce Kenkre</title>
+      <link>/authors/joyce-kenkre/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/joyce-kenkre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Hood</title>
+      <link>/authors/k-hood/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/k-hood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K Stevens</title>
+      <link>/authors/k-stevens/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/k-stevens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Shaw</title>
+      <link>/authors/k.-shaw/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/k.-shaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katarzyna Okulicz-Kozaryn</title>
+      <link>/authors/katarzyna-okulicz-kozaryn/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/katarzyna-okulicz-kozaryn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keith Humphreys</title>
+      <link>/authors/keith-humphreys/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/keith-humphreys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kerenza Hood</title>
+      <link>/authors/kerenza-hood/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/kerenza-hood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KRZYSZTOF Ostaszewski</title>
+      <link>/authors/krzysztof-ostaszewski/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/krzysztof-ostaszewski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kypros Kypri</title>
+      <link>/authors/kypros-kypri/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/kypros-kypri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Amato</title>
+      <link>/authors/l-amato/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/l-amato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Smith</title>
+      <link>/authors/l-smith/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/l-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. A. Smith</title>
+      <link>/authors/l.-a.-smith/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/l.-a.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Smith</title>
+      <link>/authors/l.-smith/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/l.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Storey</title>
+      <link>/authors/l.-storey/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/l.-storey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Amato</title>
+      <link>/authors/laura-amato/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/laura-amato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurence Anthony Russell Moore</title>
+      <link>/authors/laurence-anthony-russell-moore/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/laurence-anthony-russell-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurence Moore</title>
+      <link>/authors/laurence-moore/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/laurence-moore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lesley A Smith</title>
+      <link>/authors/lesley-a-smith/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/lesley-a-smith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lesley Storey</title>
       <link>/authors/lesley-storey/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/lesley-storey/</guid>
       <description></description>
     </item>
@@ -1556,63 +1284,167 @@
     <item>
       <title>Linda F Tucker</title>
       <link>/authors/linda-f-tucker/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/linda-f-tucker/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R. Milne</title>
-      <link>/authors/r.-milne/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/authors/r.-milne/</guid>
+      <title>Lynne Venning</title>
+      <link>/authors/lynne-venning/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/lynne-venning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SARAH E Hampson</title>
-      <link>/authors/sarah-e-hampson/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/authors/sarah-e-hampson/</guid>
+      <title>M Davoli</title>
+      <link>/authors/m-davoli/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/m-davoli/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sue Cradock</title>
-      <link>/authors/sue-cradock/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/authors/sue-cradock/</guid>
+      <title>M Feric</title>
+      <link>/authors/m-feric/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/m-feric/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>T Chas Skinner</title>
-      <link>/authors/t-chas-skinner/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/authors/t-chas-skinner/</guid>
+      <title>M Kosir</title>
+      <link>/authors/m-kosir/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/m-kosir/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>F Ismail</title>
-      <link>/authors/f-ismail/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      <guid>/authors/f-ismail/</guid>
+      <title>Maria T Moreira</title>
+      <link>/authors/maria-t-moreira/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/maria-t-moreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Ximena Rojas-Reyes</title>
+      <link>/authors/maria-ximena-rojas-reyes/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/maria-ximena-rojas-reyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marina Davoli</title>
+      <link>/authors/marina-davoli/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/marina-davoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megan Marsh</title>
+      <link>/authors/megan-marsh/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/megan-marsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Farrell</title>
+      <link>/authors/michael-farrell/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/michael-farrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelle Pose</title>
+      <link>/authors/michelle-pose/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/michelle-pose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MT McKay</title>
+      <link>/authors/mt-mckay/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/mt-mckay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N Cole</title>
+      <link>/authors/n-cole/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/n-cole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nick Cole</title>
+      <link>/authors/nick-cole/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/nick-cole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Arvers</title>
+      <link>/authors/p-arvers/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/p-arvers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Daniels</title>
+      <link>/authors/p-daniels/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/p-daniels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Fulbrook</title>
+      <link>/authors/p-fulbrook/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/p-fulbrook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P Jonhston</title>
+      <link>/authors/p-jonhston/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/p-jonhston/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P. Fulbrook</title>
       <link>/authors/p.-fulbrook/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/p.-fulbrook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parvati R Perman-Howe</title>
+      <link>/authors/parvati-r-perman-howe/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/parvati-r-perman-howe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PD Erasmus</title>
       <link>/authors/pd-erasmus/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/pd-erasmus/</guid>
       <description></description>
     </item>
@@ -1620,128 +1452,296 @@
     <item>
       <title>PF McDonald</title>
       <link>/authors/pf-mcdonald/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/authors/pf-mcdonald/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DJ Lister-Sharp</title>
-      <link>/authors/dj-lister-sharp/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>/authors/dj-lister-sharp/</guid>
+      <title>R. B. Scott</title>
+      <link>/authors/r.-b.-scott/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/r.-b.-scott/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>G Lowe</title>
-      <link>/authors/g-lowe/</link>
-      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      <guid>/authors/g-lowe/</guid>
+      <title>R. Breen</title>
+      <link>/authors/r.-breen/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/r.-breen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C. Lewis</title>
-      <link>/authors/c.-lewis/</link>
-      <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-lewis/</guid>
+      <title>R. Milne</title>
+      <link>/authors/r.-milne/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/r.-milne/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>D. Combes</title>
-      <link>/authors/d.-combes/</link>
-      <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-combes/</guid>
+      <title>Reza Oskrochi</title>
+      <link>/authors/reza-oskrochi/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/reza-oskrochi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>D. ListerSharp</title>
-      <link>/authors/d.-listersharp/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-listersharp/</guid>
+      <title>RG Watten</title>
+      <link>/authors/rg-watten/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/rg-watten/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>David Sibley</title>
-      <link>/authors/david-sibley/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>/authors/david-sibley/</guid>
+      <title>Rober Ali</title>
+      <link>/authors/rober-ali/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/rober-ali/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FJ Alvarez</title>
-      <link>/authors/fj-alvarez/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>/authors/fj-alvarez/</guid>
+      <title>Robyn Ramsden</title>
+      <link>/authors/robyn-ramsden/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/robyn-ramsden/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Geoff Lowe</title>
-      <link>/authors/geoff-lowe/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>/authors/geoff-lowe/</guid>
+      <title>S Dhileepan</title>
+      <link>/authors/s-dhileepan/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/s-dhileepan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gregory Smith</title>
-      <link>/authors/gregory-smith/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>/authors/gregory-smith/</guid>
+      <title>S Murphy</title>
+      <link>/authors/s-murphy/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/s-murphy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J Weill</title>
-      <link>/authors/j-weill/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>/authors/j-weill/</guid>
+      <title>S Talic</title>
+      <link>/authors/s-talic/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/s-talic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>P Arvers</title>
-      <link>/authors/p-arvers/</link>
-      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
-      <guid>/authors/p-arvers/</guid>
+      <title>S. Cradock</title>
+      <link>/authors/s.-cradock/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/s.-cradock/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C. May</title>
-      <link>/authors/c.-may/</link>
-      <pubDate>Wed, 01 Mar 1995 00:00:00 +0000</pubDate>
-      <guid>/authors/c.-may/</guid>
+      <title>S. Dhileepan</title>
+      <link>/authors/s.-dhileepan/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/s.-dhileepan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>D. J. ListerSharp</title>
-      <link>/authors/d.-j.-listersharp/</link>
-      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>/authors/d.-j.-listersharp/</guid>
+      <title>S. E. Hampson</title>
+      <link>/authors/s.-e.-hampson/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/s.-e.-hampson/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Carl May</title>
-      <link>/authors/carl-may/</link>
-      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
-      <guid>/authors/carl-may/</guid>
+      <title>S. Gates</title>
+      <link>/authors/s.-gates/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/s.-gates/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>David Robert Foxcroft</title>
-      <link>/authors/david-robert-foxcroft/</link>
-      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
-      <guid>/authors/david-robert-foxcroft/</guid>
+      <title>S. Hampson</title>
+      <link>/authors/s.-hampson/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/s.-hampson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARAH E Hampson</title>
+      <link>/authors/sarah-e-hampson/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/sarah-e-hampson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah E Hennelly</title>
+      <link>/authors/sarah-e-hennelly/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/sarah-e-hennelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Howcutt</title>
+      <link>/authors/sarah-howcutt/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/sarah-howcutt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Morgan-Trimmer</title>
+      <link>/authors/sarah-morgan-trimmer/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/sarah-morgan-trimmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silvia Minozzi</title>
+      <link>/authors/silvia-minozzi/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/silvia-minozzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Gates</title>
+      <link>/authors/simon-gates/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/simon-gates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Murphy</title>
+      <link>/authors/simon-murphy/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/simon-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simona Vecchi</title>
+      <link>/authors/simona-vecchi/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/simona-vecchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sue Cradock</title>
+      <link>/authors/sue-cradock/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/sue-cradock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T Chas Skinner</title>
+      <link>/authors/t-chas-skinner/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/t-chas-skinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. C. Skinner</title>
+      <link>/authors/t.-c.-skinner/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/t.-c.-skinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Z. Aziz</title>
+      <link>/authors/t.-z.-aziz/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/t.-z.-aziz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teresa Moreira</title>
+      <link>/authors/teresa-moreira/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/teresa-moreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Babor</title>
+      <link>/authors/thomas-babor/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/thomas-babor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tipu Z. Aziz</title>
+      <link>/authors/tipu-z.-aziz/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/tipu-z.-aziz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Kranzelic</title>
+      <link>/authors/v-kranzelic/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/v-kranzelic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanessa Simonite</title>
+      <link>/authors/vanessa-simonite/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/vanessa-simonite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walter Ling</title>
+      <link>/authors/walter-ling/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/walter-ling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z Roberts</title>
+      <link>/authors/z-roberts/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/z-roberts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhao Chengzheng</title>
+      <link>/authors/zhao-chengzheng/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/zhao-chengzheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoe Elizabeth Sara Roberts</title>
+      <link>/authors/zoe-elizabeth-sara-roberts/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/authors/zoe-elizabeth-sara-roberts/</guid>
       <description></description>
     </item>
     

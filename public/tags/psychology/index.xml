@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>psychology | David Foxcroft PhD CPsychol</title>
+    <link>/tags/psychology/</link>
+      <atom:link href="/tags/psychology/index.xml" rel="self" type="application/rss+xml" />
+    <description>psychology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 11:17:14 +0100</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>psychology</title>
+      <link>/tags/psychology/</link>
+    </image>
+    
+    <item>
+      <title>R stats</title>
+      <link>/teaching/5-rstats/</link>
+      <pubDate>Mon, 19 Aug 2019 11:17:14 +0100</pubDate>
+      <guid>/teaching/5-rstats/</guid>
+      <description>&lt;p&gt;This is a demand-led series of workshops run every year for PhD students, postgraduates and staff interested in getting to grips with R and RStudio for statistical analysis. Typical content includes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Installing R and RStudio and initial orientation&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Getting data in&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Data wrangling, base and tidyverse approaches&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Plotting data&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Regression in R&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Calculating sample size requirements&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Bayesian statistics in R (rstan)&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evidence Based Prevention</title>
+      <link>/teaching/4-ebp/</link>
+      <pubDate>Mon, 19 Aug 2019 10:54:02 +0100</pubDate>
+      <guid>/teaching/4-ebp/</guid>
+      <description>&lt;p&gt;Non-communicable diseases such as cancer, heart disease, diabetes, chronic lung conditions, and mental illness pose a significant health and well-being burden for both the developed and the developing world. These diseases and conditions are often linked to behaviours, for example drinking, smoking, poor diet and exercise. Given this, policy makers and behavioural experts are increasingly interested in what sort of prevention approaches could be used to effectively reduce the burden of non-communicable diseases. In this module the aims are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To develop a critical understanding of psychological approaches to prevention.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;To provide an objective analytical basis on which to build relevant prevention policies.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;To inform practitioners who have responsibility for prevention programming and delivery in local communities.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;To establish a basis for further research into prevention effectiveness.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The course will appeal to those with intellectual and career development interests in behavioural health, mental health and wellbeing, public health preventive services, as well as the wider fields of public health, health policy, advocacy, social work, epidemiology, health and social care, teaching and community development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimental Method and Statistics for Psychology</title>
+      <link>/teaching/2-psychstats/</link>
+      <pubDate>Mon, 19 Aug 2019 10:27:29 +0100</pubDate>
+      <guid>/teaching/2-psychstats/</guid>
+      <description>&lt;p&gt;This is a single MSc level module offered over two semesters. The module builds on students’ knowledge of experimental methods and statistics by introducing ideas that form the background of psychological measurement, statistical modelling and experimental design. It has five specific objectives:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;to increase students’ understanding of carrying out their own research with an emphasis on clearly stating how their research fits into the body of knowledge.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to increase students’ depth of understanding of statistical concepts and measurement in psychology. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to offer them insight into and practice of quantitative data analysis. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to engage students in preparing a data analysis plan for a psychological research study. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to prepare the students for designing their own research.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>lsj</title>
+      <link>/teaching/1-lsj/</link>
+      <pubDate>Mon, 19 Aug 2019 10:25:47 +0100</pubDate>
+      <guid>/teaching/1-lsj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

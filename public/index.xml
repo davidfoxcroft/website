@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>David Foxcroft PhD CPsychol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 12:09:50 +0100</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>David Foxcroft PhD CPsychol</title>
@@ -13,41 +13,25 @@
     </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/</guid>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Mon, 19 Aug 2019 11:51:22 +0100</pubDate>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>/slides/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
+      <title>Teachings</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 19 Aug 2019 11:17:14 +0100</pubDate>
+      <guid>/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LICENSE: CC-BY-SA</title>
       <link>/license/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 17 Aug 2019 18:58:32 +0100</pubDate>
       <guid>/license/</guid>
       <description>&lt;p&gt;My &lt;a href=&#34;/post/&#34;&gt;blog posts&lt;/a&gt; are released under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
 
@@ -60,7 +44,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 17 Aug 2019 18:58:32 +0100</pubDate>
       <guid>/privacy/</guid>
       <description>&lt;p&gt;Nothing on this website requires you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by Google Analytics for measuring visitor traffic to this site.&lt;/p&gt;
 
@@ -82,17 +66,41 @@
     <item>
       <title>Terms</title>
       <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 17 Aug 2019 18:58:32 +0100</pubDate>
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
+      <title>Courses</title>
+      <link>/courses/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/</link>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <guid>/slides/</guid>
       <description></description>
     </item>
     
@@ -519,14 +527,6 @@ $(document).ready(function () {
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/courses/</guid>
-      <description></description>
     </item>
     
   </channel>

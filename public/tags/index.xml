@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 11:51:22 +0100</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Tags</title>
@@ -13,9 +13,73 @@
     </image>
     
     <item>
+      <title>cancer</title>
+      <link>/tags/cancer/</link>
+      <pubDate>Mon, 19 Aug 2019 11:51:22 +0100</pubDate>
+      <guid>/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prevention</title>
+      <link>/tags/prevention/</link>
+      <pubDate>Mon, 19 Aug 2019 11:51:22 +0100</pubDate>
+      <guid>/tags/prevention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychology</title>
+      <link>/tags/psychology/</link>
+      <pubDate>Mon, 19 Aug 2019 11:17:14 +0100</pubDate>
+      <guid>/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public health</title>
+      <link>/tags/public-health/</link>
+      <pubDate>Mon, 19 Aug 2019 11:17:14 +0100</pubDate>
+      <guid>/tags/public-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>/tags/statistics/</link>
+      <pubDate>Mon, 19 Aug 2019 11:17:14 +0100</pubDate>
+      <guid>/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews</title>
+      <link>/tags/reviews/</link>
+      <pubDate>Mon, 19 Aug 2019 10:46:36 +0100</pubDate>
+      <guid>/tags/reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jamovi</title>
+      <link>/tags/jamovi/</link>
+      <pubDate>Mon, 19 Aug 2019 10:27:29 +0100</pubDate>
+      <guid>/tags/jamovi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lsj</title>
+      <link>/tags/lsj/</link>
+      <pubDate>Mon, 19 Aug 2019 10:25:47 +0100</pubDate>
+      <guid>/tags/lsj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GBG</title>
       <link>/tags/gbg/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
       <guid>/tags/gbg/</guid>
       <description></description>
     </item>
@@ -23,7 +87,7 @@
     <item>
       <title>GDS</title>
       <link>/tags/gds/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
       <guid>/tags/gds/</guid>
       <description></description>
     </item>
@@ -31,7 +95,7 @@
     <item>
       <title>SFP</title>
       <link>/tags/sfp/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
       <guid>/tags/sfp/</guid>
       <description></description>
     </item>
@@ -39,7 +103,7 @@
     <item>
       <title>Social Status and Family Socialization</title>
       <link>/tags/social-status-and-family-socialization/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
       <guid>/tags/social-status-and-family-socialization/</guid>
       <description></description>
     </item>
@@ -47,7 +111,7 @@
     <item>
       <title>STAMPP</title>
       <link>/tags/stampp/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
       <guid>/tags/stampp/</guid>
       <description></description>
     </item>
@@ -55,7 +119,7 @@
     <item>
       <title>Academic</title>
       <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/tags/academic/</guid>
       <description></description>
     </item>
@@ -63,7 +127,7 @@
     <item>
       <title>plot</title>
       <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/tags/plot/</guid>
       <description></description>
     </item>
@@ -71,7 +135,7 @@
     <item>
       <title>R Markdown</title>
       <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
@@ -79,7 +143,7 @@
     <item>
       <title>regression</title>
       <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/tags/regression/</guid>
       <description></description>
     </item>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cancer | David Foxcroft PhD CPsychol</title>
+    <link>/tags/cancer/</link>
+      <atom:link href="/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    <description>cancer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 11:51:22 +0100</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>cancer</title>
+      <link>/tags/cancer/</link>
+    </image>
+    
+    <item>
+      <title>Health care professionals and E-cigarettes</title>
+      <link>/project/7-ecigs/</link>
+      <pubDate>Mon, 19 Aug 2019 11:51:22 +0100</pubDate>
+      <guid>/project/7-ecigs/</guid>
+      <description>&lt;p&gt;Survey research lead by Dr Jo Brett of knowledge and attitudes amongst health care professionals regarding the use of e-cigarettes as an aid to smoking cessation and cancer prevention&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

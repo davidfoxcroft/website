@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John Strang | David Foxcroft PhD CPsychol</title>
+    <title> John Strang | David Foxcroft PhD CPsychol</title>
     <link>/authors/john-strang/</link>
       <atom:link href="/authors/john-strang/index.xml" rel="self" type="application/rss+xml" />
-    <description>John Strang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <description> John Strang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 12:09:50 +0100</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
-      <title>John Strang</title>
+      <title> John Strang</title>
       <link>/authors/john-strang/</link>
     </image>
     
     <item>
+      <title>Drug Policy and the Public Good: Second Edition</title>
+      <link>/publication/babordppg/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/publication/babordppg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Drug Policy and the Public Good: Evidence for Effective Interventions</title>
       <link>/publication/strang-2012-drug/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/publication/strang-2012-drug/</guid>
       <description></description>
     </item>

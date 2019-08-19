@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lsj | David Foxcroft PhD CPsychol</title>
+    <link>/tags/lsj/</link>
+      <atom:link href="/tags/lsj/index.xml" rel="self" type="application/rss+xml" />
+    <description>lsj</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 10:25:47 +0100</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>lsj</title>
+      <link>/tags/lsj/</link>
+    </image>
+    
+    <item>
+      <title>lsj</title>
+      <link>/teaching/1-lsj/</link>
+      <pubDate>Mon, 19 Aug 2019 10:25:47 +0100</pubDate>
+      <guid>/teaching/1-lsj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

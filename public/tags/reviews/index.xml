@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reviews | David Foxcroft PhD CPsychol</title>
+    <link>/tags/reviews/</link>
+      <atom:link href="/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <description>reviews</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 10:46:36 +0100</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>reviews</title>
+      <link>/tags/reviews/</link>
+    </image>
+    
+    <item>
+      <title>Applied Research Methods - Systematic Reviews</title>
+      <link>/teaching/3-sysreviews/</link>
+      <pubDate>Mon, 19 Aug 2019 10:46:36 +0100</pubDate>
+      <guid>/teaching/3-sysreviews/</guid>
+      <description>&lt;p&gt;This is a single MSc level half-module offered over one semester, introducing students to research methods that are used in public health in the context of systematic literature reviews. Topics covered include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Asking the Right Question&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Primary Research Designs and Types of Bias (Experimental and Observational)&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Introduction to Systematic Reviews&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Literature Searching&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Quality Assesment, Risk of Bias and Data Extraction&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Data Synthesis (Meta-analysis, Narrative Synthesis, Realist Reviews)&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Health Equity assessment&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Reporting systematic reviews&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

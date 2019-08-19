@@ -5,7 +5,7 @@ publishDate: 2019-08-17T06:52:40.021044Z
 authors: ["David R Foxcroft"]
 publication_types: ["2"]
 abstract: ""
-featured: true
+featured: false
 publication: "*Adicciones*"
 ---
 

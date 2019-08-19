@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jamovi | David Foxcroft PhD CPsychol</title>
+    <link>/tags/jamovi/</link>
+      <atom:link href="/tags/jamovi/index.xml" rel="self" type="application/rss+xml" />
+    <description>jamovi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 10:27:29 +0100</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>jamovi</title>
+      <link>/tags/jamovi/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Method and Statistics for Psychology</title>
+      <link>/teaching/2-psychstats/</link>
+      <pubDate>Mon, 19 Aug 2019 10:27:29 +0100</pubDate>
+      <guid>/teaching/2-psychstats/</guid>
+      <description>&lt;p&gt;This is a single MSc level module offered over two semesters. The module builds on students’ knowledge of experimental methods and statistics by introducing ideas that form the background of psychological measurement, statistical modelling and experimental design. It has five specific objectives:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;to increase students’ understanding of carrying out their own research with an emphasis on clearly stating how their research fits into the body of knowledge.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to increase students’ depth of understanding of statistical concepts and measurement in psychology. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to offer them insight into and practice of quantitative data analysis. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to engage students in preparing a data analysis plan for a psychological research study. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to prepare the students for designing their own research.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>lsj</title>
+      <link>/teaching/1-lsj/</link>
+      <pubDate>Mon, 19 Aug 2019 10:25:47 +0100</pubDate>
+      <guid>/teaching/1-lsj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

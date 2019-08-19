@@ -2,13 +2,12 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+linktitle: lsj
 menu:
   example:
     name: Overview
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
+summary: learning statistics with jamovi (lsj for short) is a basic, introductory statistics textbook that presents most of the topics typically seen in an introductory psychology course at undergraduate level. It is completely free to download, use, and adapt — released under a creative commons CC BY-SA 4.0 licence. Although it is geared towards psychology, the content and material is also relevant to other disciplines, for example health sciences and public health. Download lsj over [here](https://learnstatswithjamovi.com/).
 title: Overview
 toc: true
 type: docs

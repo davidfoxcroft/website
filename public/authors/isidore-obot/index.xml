@@ -5,7 +5,7 @@
     <link>/authors/isidore-obot/</link>
       <atom:link href="/authors/isidore-obot/index.xml" rel="self" type="application/rss+xml" />
     <description>Isidore Obot</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 12:09:50 +0100</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Isidore Obot</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Drug Policy and the Public Good: Second Edition</title>
+      <link>/publication/babordppg/</link>
+      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
+      <guid>/publication/babordppg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Drug Policy and the Public Good: A Summary of the Second Edition</title>
       <link>/publication/babor-2019-drug/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
       <guid>/publication/babor-2019-drug/</guid>
       <description></description>
     </item>
