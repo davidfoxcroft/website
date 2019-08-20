@@ -17,7 +17,7 @@
 
 # A redirect rule with all the supported properties
 [[redirects]]
-  from = "/*"
+  from = "https://davidfoxcroft.netlify.com/*"
   to = "https://www.davidfoxcroft.com/:splat"
 
   # The default HTTP status code is 301, but you can define a different one.
@@ -27,3 +27,4 @@
   # path as the one defined in the `from` property. Setting `force` to `true`
   # will make the redirect rule take precedence over any existing files.
   force = true
+
