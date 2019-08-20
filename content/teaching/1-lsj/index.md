@@ -1,5 +1,5 @@
 ---
-date: ""
+date: "2019-01-13T00:00:00"
 external_link: https://sites.google.com/brookes.ac.uk/learning-stats-with-jamovi
 image:
   caption: lsj book cover

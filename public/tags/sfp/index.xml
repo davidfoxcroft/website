@@ -5,7 +5,7 @@
     <link>/tags/sfp/</link>
       <atom:link href="/tags/sfp/index.xml" rel="self" type="application/rss+xml" />
     <description>SFP</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 18 Aug 2019 15:57:04 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>SFP</title>
@@ -15,7 +15,7 @@
     <item>
       <title>SFP Cymru</title>
       <link>/project/2-sfp-cymru/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/project/2-sfp-cymru/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>SFP10-14 in Poland</title>
       <link>/project/6-sfp-polska/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/6-sfp-polska/</guid>
       <description>&lt;p&gt;Cluster randomised controlled trial with multiple imputation and bayesian regression modelling to deal with higher than expected attrition.&lt;/p&gt;
 </description>

@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2019-04-27T00:00:00Z"
 external_link: ""
 image:
   caption: Alternative causal mechanisms
@@ -12,7 +12,9 @@ image:
 # slides: example
 summary: Comparing Social Status and Family Socialization deficit hypotheses
 tags:
-- Social Status and Family Socialization
+- Social Status 
+- Family Socialization
+- causal mediation
 title: Social Status and Family Socialization
 url_code: ""
 url_pdf: ""

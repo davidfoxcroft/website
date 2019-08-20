@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Status | David Foxcroft PhD CPsychol</title>
+    <link>/tags/social-status/</link>
+      <atom:link href="/tags/social-status/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Status</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Social Status</title>
+      <link>/tags/social-status/</link>
+    </image>
+    
+    <item>
+      <title>Social Status and Family Socialization</title>
+      <link>/project/3-social-status/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/3-social-status/</guid>
+      <description>&lt;p&gt;Social status may be mediated by family socialization practices in relation to adolescent substance use. However, traditional mediation analysis using a product or difference method is susceptible to bias when assumptions of the method are not addressed. We are using a  potential outcomes framework to assess assumptions of (1) no exposure-mediator
+(social status – socialization practices) interaction and (2) no unmeasured confounding of the mediator-outcome path (socialization practices – substance use).&lt;/p&gt;
+
+&lt;p&gt;In an analysis of data from 17,761 Norwegian young people (13 to 18 years; 51% female and 49% male) we have found no consistent evidence of exposure-mediator interaction. Formal sensitivity analysis of mediator-outcome confounding was not possible in the multiple mediator scenario, but we have judged the risk of the mediated effect being negated as being relatively low. In the multiple mediator analysis, we found strong support for the family socialisation deficit hypothesis, especially in younger age groups. Assuming no further unmeasured confounders of the socialisation-drinking behaviour relation, this analysis supports the family socialisation deficit hypothesis to explain young persons’ drinking. One potential implication of this finding is that effective family socialization interventions could help address the social patterning of alcohol misuse in young people.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

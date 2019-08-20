@@ -1,5 +1,5 @@
 ---
-date: ""
+date: "2019-10-13T00:00:00"
 external_link: ""
 image:
   caption: Example slide 

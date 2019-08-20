@@ -5,7 +5,7 @@
     <link>/authors/d-foxcroft/</link>
       <atom:link href="/authors/d-foxcroft/index.xml" rel="self" type="application/rss+xml" />
     <description>D Foxcroft</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 17 Aug 2019 09:48:01 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>D Foxcroft</title>
@@ -13,25 +13,9 @@
     </image>
     
     <item>
-      <title>Adolescent Alcohol Use and Misuse in the UK</title>
-      <link>/publication/foxcroft-1996-adolescent/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-1996-adolescent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Early Tracheal Extubation for Adult Cardiac Surgical Patients</title>
-      <link>/publication/hawkes-2004-early/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/hawkes-2004-early/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improving Child Behaviour Management: An Evaluation of the Good Behaviour Game in UK Primary Schools</title>
       <link>/publication/chan-2012-improving/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/chan-2012-improving/</guid>
       <description></description>
     </item>
@@ -39,7 +23,7 @@
     <item>
       <title>Pragmatic Trials of Non-NHS Interventions: Experiences from a Randomised Controlled Trial of the Strengthening Families 10-14 UK Programme (SFP10-14 UK)</title>
       <link>/publication/holliday-2011-pragmatic/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/holliday-2011-pragmatic/</guid>
       <description></description>
     </item>
@@ -47,8 +31,24 @@
     <item>
       <title>The Use of Non-Randomized Studies in the Cochrane Reviews on Drug and Alcohol</title>
       <link>/publication/vigna-2005-use/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>/publication/vigna-2005-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Tracheal Extubation for Adult Cardiac Surgical Patients</title>
+      <link>/publication/hawkes-2004-early/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/hawkes-2004-early/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adolescent Alcohol Use and Misuse in the UK</title>
+      <link>/publication/foxcroft-1996-adolescent/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-1996-adolescent/</guid>
       <description></description>
     </item>
     

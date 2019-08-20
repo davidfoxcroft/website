@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survey | David Foxcroft PhD CPsychol</title>
+    <link>/tags/survey/</link>
+      <atom:link href="/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    <description>survey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>survey</title>
+      <link>/tags/survey/</link>
+    </image>
+    
+    <item>
+      <title>Health care professionals and E-cigarettes</title>
+      <link>/project/7-ecigs/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/7-ecigs/</guid>
+      <description>&lt;p&gt;Survey research lead by Dr Jo Brett of knowledge and attitudes amongst health care professionals regarding the use of e-cigarettes as an aid to smoking cessation and cancer prevention&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GDS and alcohol messages</title>
+      <link>/project/5-gds/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/5-gds/</guid>
+      <description>&lt;p&gt;We are using data from the Global Drug Survey to analyse the impact of different alcohol information messages across countries. Using a bayesian multivariate mixed modelling approach we are estimating posterior probabilities using partial pooling of random effects. One challenge is how to convey / report the complex results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

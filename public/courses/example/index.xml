@@ -5,7 +5,7 @@
     <link>/courses/example/</link>
       <atom:link href="/courses/example/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 17 Aug 2019 09:48:01 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Overview</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Example Page 1</title>
       <link>/courses/example/example1/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/courses/example/example1/</guid>
       <description>
 
@@ -50,7 +50,7 @@
     <item>
       <title>Example Page 2</title>
       <link>/courses/example/example2/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/courses/example/example2/</guid>
       <description>
 

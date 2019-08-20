@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RCT | David Foxcroft PhD CPsychol</title>
+    <link>/tags/rct/</link>
+      <atom:link href="/tags/rct/index.xml" rel="self" type="application/rss+xml" />
+    <description>RCT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>RCT</title>
+      <link>/tags/rct/</link>
+    </image>
+    
+    <item>
+      <title>Good Behaviour Game</title>
+      <link>/project/1-good-behaviour-game/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/1-good-behaviour-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFP Cymru</title>
+      <link>/project/2-sfp-cymru/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/2-sfp-cymru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STAMPP</title>
+      <link>/project/4-stampp/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/4-stampp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFP10-14 in Poland</title>
+      <link>/project/6-sfp-polska/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/6-sfp-polska/</guid>
+      <description>&lt;p&gt;Cluster randomised controlled trial with multiple imputation and bayesian regression modelling to deal with higher than expected attrition.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

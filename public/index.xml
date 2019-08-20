@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>David Foxcroft PhD CPsychol</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 12:09:50 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>David Foxcroft PhD CPsychol</title>
@@ -13,63 +13,19 @@
     </image>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Mon, 19 Aug 2019 11:51:22 +0100</pubDate>
-      <guid>/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teachings</title>
       <link>/teaching/</link>
-      <pubDate>Mon, 19 Aug 2019 11:17:14 +0100</pubDate>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/teaching/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>LICENSE: CC-BY-SA</title>
-      <link>/license/</link>
-      <pubDate>Sat, 17 Aug 2019 18:58:32 +0100</pubDate>
-      <guid>/license/</guid>
-      <description>&lt;p&gt;My &lt;a href=&#34;/post/&#34;&gt;blog posts&lt;/a&gt; are released under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
-&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Sat, 17 Aug 2019 18:58:32 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;Nothing on this website requires you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by Google Analytics for measuring visitor traffic to this site.&lt;/p&gt;
-
-&lt;p&gt;I do not collect this information and have no access to it other than as aggregated reports. Here is the Google Analytics privacy page.&lt;/p&gt;
-
-&lt;p&gt;This information is collected via cookies. Most web browsers allow you to control handling of cookies. You can disable all cookies for this website without in any way reducing the functionality for you.&lt;/p&gt;
-
-&lt;p&gt;I have designed this website so that your IP address is anonymised within Google Analytics and the “Do Not Track” request is respected.&lt;/p&gt;
-
-&lt;p&gt;I don’t collect your personal information, so there is nothing I can share.&lt;/p&gt;
-
-&lt;p&gt;Google Analytics does collect some information about you. See the Google Analytics privacy page.&lt;/p&gt;
-
-&lt;p&gt;For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends
-&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Sat, 17 Aug 2019 18:58:32 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
+      <title>Projects</title>
+      <link>/project/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -99,9 +55,53 @@
     <item>
       <title>Slides</title>
       <link>/slides/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/slides/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>LICENSE: CC-BY-SA</title>
+      <link>/license/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/license/</guid>
+      <description>&lt;p&gt;My &lt;a href=&#34;/post/&#34;&gt;blog posts&lt;/a&gt; are released under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Nothing on this website requires you to identify yourself. The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by Google Analytics for measuring visitor traffic to this site.&lt;/p&gt;
+
+&lt;p&gt;I do not collect this information and have no access to it other than as aggregated reports. Here is the Google Analytics privacy page.&lt;/p&gt;
+
+&lt;p&gt;This information is collected via cookies. Most web browsers allow you to control handling of cookies. You can disable all cookies for this website without in any way reducing the functionality for you.&lt;/p&gt;
+
+&lt;p&gt;I have designed this website so that your IP address is anonymised within Google Analytics and the “Do Not Track” request is respected.&lt;/p&gt;
+
+&lt;p&gt;I don’t collect your personal information, so there is nothing I can share.&lt;/p&gt;
+
+&lt;p&gt;Google Analytics does collect some information about you. See the Google Analytics privacy page.&lt;/p&gt;
+
+&lt;p&gt;For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends
+&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
     <item>

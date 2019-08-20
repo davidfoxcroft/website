@@ -5,7 +5,7 @@
     <link>/authors/g.-lowe/</link>
       <atom:link href="/authors/g.-lowe/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Lowe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 17 Aug 2019 09:48:01 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>G. Lowe</title>
@@ -13,17 +13,33 @@
     </image>
     
     <item>
-      <title>Adolescent Drinking Behaviour and Family Socialization Factors: A Meta-Analysis.</title>
-      <link>/publication/foxcroft-adolescent-drinking-behaviour-1991-b/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-adolescent-drinking-behaviour-1991-b/</guid>
+      <title>Longer-Term Primary Prevention for Alcohol Misuse in Young People: Cochrane Systematic Review</title>
+      <link>/publication/foxcroft-longerterm-primary-prevention-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-longerterm-primary-prevention-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longer-Term Primary Prevention for Alcohol Misuse in Young People: A Systematic Review</title>
+      <link>/publication/foxcroft-longerterm-primary-prevention-2003-b/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-longerterm-primary-prevention-2003-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Prevention for Alcohol Misuse in Young People</title>
+      <link>/publication/foxcroft-primary-prevention-alcohol-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-primary-prevention-alcohol-2002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adolescents&#39; Alcohol Use and Misuse: The Socializing Influence of Perceived Family Life</title>
       <link>/publication/foxcroft-adolescents-alcohol-use-1997-a/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>/publication/foxcroft-adolescents-alcohol-use-1997-a/</guid>
       <description></description>
     </item>
@@ -31,40 +47,24 @@
     <item>
       <title>Alcohol Misuse Prevention for Young People: A Systematic Review Reveals Methodological Concerns and Lack of Reliable Evidence of Effectiveness</title>
       <link>/publication/foxcroft-alcohol-misuse-prevention-1997-b/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
       <guid>/publication/foxcroft-alcohol-misuse-prevention-1997-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longer-Term Primary Prevention for Alcohol Misuse in Young People: A Systematic Review</title>
-      <link>/publication/foxcroft-longerterm-primary-prevention-2003-b/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-longerterm-primary-prevention-2003-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Longer-Term Primary Prevention for Alcohol Misuse in Young People: Cochrane Systematic Review</title>
-      <link>/publication/foxcroft-longerterm-primary-prevention-2005/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-longerterm-primary-prevention-2005/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Primary Prevention for Alcohol Misuse in Young People</title>
-      <link>/publication/foxcroft-primary-prevention-alcohol-2002/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-primary-prevention-alcohol-2002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teenage Drinking: A 4-Year Comparative Study</title>
       <link>/publication/foxcroft-teenage-drinking-4-year-1995-a/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
       <guid>/publication/foxcroft-teenage-drinking-4-year-1995-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adolescent Drinking Behaviour and Family Socialization Factors: A Meta-Analysis.</title>
+      <link>/publication/foxcroft-adolescent-drinking-behaviour-1991-b/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-adolescent-drinking-behaviour-1991-b/</guid>
       <description></description>
     </item>
     

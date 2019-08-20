@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NIHR | David Foxcroft PhD CPsychol</title>
+    <link>/tags/nihr/</link>
+      <atom:link href="/tags/nihr/index.xml" rel="self" type="application/rss+xml" />
+    <description>NIHR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>NIHR</title>
+      <link>/tags/nihr/</link>
+    </image>
+    
+    <item>
+      <title>Good Behaviour Game</title>
+      <link>/project/1-good-behaviour-game/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/1-good-behaviour-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STAMPP</title>
+      <link>/project/4-stampp/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/4-stampp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

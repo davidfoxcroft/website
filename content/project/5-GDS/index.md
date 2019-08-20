@@ -4,15 +4,16 @@ external_link: ""
 image:
   caption: Global Drug Survey
   focal_point: Smart
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links:
+ - icon: twitter
+   icon_pack: fab
+   name: Follow
+   url: "https://twitter.com/GlobalDrugSurvy"
 # slides: example
 summary: Cross-country comparisons of response to different message types in the Global Drug Survey
 tags:
 - GDS
+- survey
 title: GDS and alcohol messages
 url_code: ""
 url_pdf: ""

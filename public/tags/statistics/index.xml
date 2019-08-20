@@ -5,7 +5,7 @@
     <link>/tags/statistics/</link>
       <atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>statistics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 11:17:14 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>statistics</title>
@@ -13,9 +13,26 @@
     </image>
     
     <item>
+      <title>Experimental Method and Statistics for Psychology</title>
+      <link>/teaching/2-psychstats/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/2-psychstats/</guid>
+      <description>&lt;p&gt;This is a single MSc level module offered over two semesters. The module builds on students’ knowledge of experimental methods and statistics by introducing ideas that form the background of psychological measurement, statistical modelling and experimental design. It has five specific objectives:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;to increase students’ understanding of carrying out their own research with an emphasis on clearly stating how their research fits into the body of knowledge.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to increase students’ depth of understanding of statistical concepts and measurement in psychology. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to offer them insight into and practice of quantitative data analysis. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to engage students in preparing a data analysis plan for a psychological research study. &lt;br&gt;&lt;/li&gt;
+&lt;li&gt;to prepare the students for designing their own research.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R stats</title>
       <link>/teaching/5-rstats/</link>
-      <pubDate>Mon, 19 Aug 2019 11:17:14 +0100</pubDate>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/5-rstats/</guid>
       <description>&lt;p&gt;This is a demand-led series of workshops run every year for PhD students, postgraduates and staff interested in getting to grips with R and RStudio for statistical analysis. Typical content includes:&lt;/p&gt;
 
@@ -32,26 +49,9 @@
     </item>
     
     <item>
-      <title>Experimental Method and Statistics for Psychology</title>
-      <link>/teaching/2-psychstats/</link>
-      <pubDate>Mon, 19 Aug 2019 10:27:29 +0100</pubDate>
-      <guid>/teaching/2-psychstats/</guid>
-      <description>&lt;p&gt;This is a single MSc level module offered over two semesters. The module builds on students’ knowledge of experimental methods and statistics by introducing ideas that form the background of psychological measurement, statistical modelling and experimental design. It has five specific objectives:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;to increase students’ understanding of carrying out their own research with an emphasis on clearly stating how their research fits into the body of knowledge.&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;to increase students’ depth of understanding of statistical concepts and measurement in psychology. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;to offer them insight into and practice of quantitative data analysis. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;to engage students in preparing a data analysis plan for a psychological research study. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;to prepare the students for designing their own research.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>lsj</title>
       <link>/teaching/1-lsj/</link>
-      <pubDate>Mon, 19 Aug 2019 10:25:47 +0100</pubDate>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/1-lsj/</guid>
       <description></description>
     </item>

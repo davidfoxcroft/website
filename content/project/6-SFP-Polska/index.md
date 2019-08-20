@@ -13,6 +13,7 @@ image:
 summary: Cluster RCT of the effectiveness of the Strengthening Families Programme 10-14 in Poland
 tags:
 - SFP
+- RCT
 title: SFP10-14 in Poland
 url_code: ""
 url_pdf: ""

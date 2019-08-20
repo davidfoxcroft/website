@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 11:51:22 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Projects</title>
@@ -15,50 +15,16 @@
     <item>
       <title>Health care professionals and E-cigarettes</title>
       <link>/project/7-ecigs/</link>
-      <pubDate>Mon, 19 Aug 2019 11:51:22 +0100</pubDate>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/project/7-ecigs/</guid>
       <description>&lt;p&gt;Survey research lead by Dr Jo Brett of knowledge and attitudes amongst health care professionals regarding the use of e-cigarettes as an aid to smoking cessation and cancer prevention&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>GDS and alcohol messages</title>
-      <link>/project/5-gds/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
-      <guid>/project/5-gds/</guid>
-      <description>&lt;p&gt;We are using data from the Global Drug Survey to analyse the impact of different alcohol information messages across countries. Using a bayesian multivariate mixed modelling approach we are estimating posterior probabilities using partial pooling of random effects. One challenge is how to convey / report the complex results.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Good Behaviour Game</title>
-      <link>/project/1-good-behaviour-game/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
-      <guid>/project/1-good-behaviour-game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SFP Cymru</title>
-      <link>/project/2-sfp-cymru/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
-      <guid>/project/2-sfp-cymru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SFP10-14 in Poland</title>
-      <link>/project/6-sfp-polska/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
-      <guid>/project/6-sfp-polska/</guid>
-      <description>&lt;p&gt;Cluster randomised controlled trial with multiple imputation and bayesian regression modelling to deal with higher than expected attrition.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Social Status and Family Socialization</title>
       <link>/project/3-social-status/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/project/3-social-status/</guid>
       <description>&lt;p&gt;Social status may be mediated by family socialization practices in relation to adolescent substance use. However, traditional mediation analysis using a product or difference method is susceptible to bias when assumptions of the method are not addressed. We are using a  potential outcomes framework to assess assumptions of (1) no exposure-mediator
 (social status – socialization practices) interaction and (2) no unmeasured confounding of the mediator-outcome path (socialization practices – substance use).&lt;/p&gt;
@@ -68,11 +34,45 @@
     </item>
     
     <item>
+      <title>Good Behaviour Game</title>
+      <link>/project/1-good-behaviour-game/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/1-good-behaviour-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SFP Cymru</title>
+      <link>/project/2-sfp-cymru/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/project/2-sfp-cymru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>STAMPP</title>
       <link>/project/4-stampp/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/project/4-stampp/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>GDS and alcohol messages</title>
+      <link>/project/5-gds/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/5-gds/</guid>
+      <description>&lt;p&gt;We are using data from the Global Drug Survey to analyse the impact of different alcohol information messages across countries. Using a bayesian multivariate mixed modelling approach we are estimating posterior probabilities using partial pooling of random effects. One challenge is how to convey / report the complex results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SFP10-14 in Poland</title>
+      <link>/project/6-sfp-polska/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/6-sfp-polska/</guid>
+      <description>&lt;p&gt;Cluster randomised controlled trial with multiple imputation and bayesian regression modelling to deal with higher than expected attrition.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

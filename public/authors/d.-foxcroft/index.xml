@@ -5,7 +5,7 @@
     <link>/authors/d.-foxcroft/</link>
       <atom:link href="/authors/d.-foxcroft/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Foxcroft</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sat, 17 Aug 2019 09:48:01 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>D. Foxcroft</title>
@@ -13,41 +13,65 @@
     </image>
     
     <item>
+      <title>The Need for Values: Science and Art in Alcohol Harm Reduction</title>
+      <link>/publication/foxcroft-need-values-science-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-need-values-science-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blueprint: A Positive Step toward Strong Evidence</title>
       <link>/publication/foxcroft-blueprint-positive-step-2006/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>/publication/foxcroft-blueprint-positive-step-2006/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Correlation between the Patient&#39;s Ability to Perform Motor Tasks, Their Perception of This Ability, Their Mood and Affect, and the Relationship of These with Levodopa and Deep Brain Stimulation in Parkinson&#39;s Disease</title>
-      <link>/publication/joint-correlation-patient-ability-2004/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/joint-correlation-patient-ability-2004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Early Extubation for Adult Cardiac Surgical Patients</title>
-      <link>/publication/hawkes-early-extubation-adult-2003/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/hawkes-early-extubation-adult-2003/</guid>
+      <title>Therapeutic Communities for Substance Related Disorder.</title>
+      <link>/publication/smith-therapeutic-communities-substance-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/smith-therapeutic-communities-substance-2006/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Educational and Psychosocial Programmes for Adolescents with Diabetes: Approaches, Outcomes and Cost-Effectiveness.</title>
       <link>/publication/gage-educational-psychosocial-programmes-2004/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
       <guid>/publication/gage-educational-psychosocial-programmes-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation between the Patient&#39;s Ability to Perform Motor Tasks, Their Perception of This Ability, Their Mood and Affect, and the Relationship of These with Levodopa and Deep Brain Stimulation in Parkinson&#39;s Disease</title>
+      <link>/publication/joint-correlation-patient-ability-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/joint-correlation-patient-ability-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School Based Drug Prevention</title>
+      <link>/publication/foxcroft-school-based-drug-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-school-based-drug-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Extubation for Adult Cardiac Surgical Patients</title>
+      <link>/publication/hawkes-early-extubation-adult-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/hawkes-early-extubation-adult-2003/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Educational and Psychosocial Interventions for Adolescents with Diabetes Mellitus: A Systematic Review</title>
       <link>/publication/hampson-effects-educational-psychosocial-2001/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
       <guid>/publication/hampson-effects-educational-psychosocial-2001/</guid>
       <description></description>
     </item>
@@ -55,48 +79,24 @@
     <item>
       <title>Measuring the Outcome of Paediatric Intensive Care</title>
       <link>/publication/fulbrook-measuring-outcome-paediatric-1999/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       <guid>/publication/fulbrook-measuring-outcome-paediatric-1999/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minimizing Bias in Self-Reports of Health Beliefs and Behaviours.</title>
-      <link>/publication/may-minimizing-bias-selfreports-1995/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/may-minimizing-bias-selfreports-1995/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School Based Drug Prevention</title>
-      <link>/publication/foxcroft-school-based-drug-2004/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-school-based-drug-2004/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Six Months&#39; Experience of the New Practice-Based Patients&#39; Complaints Procedure.</title>
       <link>/publication/combes-six-months-experience-1997/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
       <guid>/publication/combes-six-months-experience-1997/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Need for Values: Science and Art in Alcohol Harm Reduction</title>
-      <link>/publication/foxcroft-need-values-science-2007/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-need-values-science-2007/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Therapeutic Communities for Substance Related Disorder.</title>
-      <link>/publication/smith-therapeutic-communities-substance-2006/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/smith-therapeutic-communities-substance-2006/</guid>
+      <title>Minimizing Bias in Self-Reports of Health Beliefs and Behaviours.</title>
+      <link>/publication/may-minimizing-bias-selfreports-1995/</link>
+      <pubDate>Wed, 01 Mar 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/may-minimizing-bias-selfreports-1995/</guid>
       <description></description>
     </item>
     

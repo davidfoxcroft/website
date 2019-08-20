@@ -5,7 +5,7 @@
     <link>/tags/jamovi/</link>
       <atom:link href="/tags/jamovi/index.xml" rel="self" type="application/rss+xml" />
     <description>jamovi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 10:27:29 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>jamovi</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Experimental Method and Statistics for Psychology</title>
       <link>/teaching/2-psychstats/</link>
-      <pubDate>Mon, 19 Aug 2019 10:27:29 +0100</pubDate>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/2-psychstats/</guid>
       <description>&lt;p&gt;This is a single MSc level module offered over two semesters. The module builds on students’ knowledge of experimental methods and statistics by introducing ideas that form the background of psychological measurement, statistical modelling and experimental design. It has five specific objectives:&lt;/p&gt;
 
@@ -32,7 +32,7 @@
     <item>
       <title>lsj</title>
       <link>/teaching/1-lsj/</link>
-      <pubDate>Mon, 19 Aug 2019 10:25:47 +0100</pubDate>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/teaching/1-lsj/</guid>
       <description></description>
     </item>

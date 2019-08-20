@@ -5,7 +5,7 @@
     <link>/authors/david-foxcroft/</link>
       <atom:link href="/authors/david-foxcroft/index.xml" rel="self" type="application/rss+xml" />
     <description>David Foxcroft</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Mon, 19 Aug 2019 12:09:50 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© David Foxcroft 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>David Foxcroft</title>
@@ -13,33 +13,25 @@
     </image>
     
     <item>
-      <title>Drug Policy and the Public Good: Second Edition</title>
-      <link>/publication/babordppg/</link>
-      <pubDate>Mon, 19 Aug 2019 12:09:50 +0100</pubDate>
-      <guid>/publication/babordppg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cost-Effectiveness of a Combined Classroom Curriculum and Parental Intervention: Economic Evaluation of Data from the Steps Towards Alcohol Misuse Prevention Programme Cluster Randomised Controlled Trial</title>
       <link>/publication/agus-2019-cost/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/agus-2019-cost/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Developmental Trajectories of Adolescent Risky Drinking: Predictors from the Drug Education in Victoria Schools (DEVS) Study</title>
-      <link>/publication/lester-2018-developmental/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
-      <guid>/publication/lester-2018-developmental/</guid>
+      <title>Drug Policy and the Public Good: A Summary of the Second Edition</title>
+      <link>/publication/babor-2019-drug/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/babor-2019-drug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>learning statistics with jamovi: a tutorial for psychology students and other beginners (Version 0.70)</title>
       <link>/publication/navarrolearning/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/navarrolearning/</guid>
       <description></description>
     </item>
@@ -47,151 +39,87 @@
     <item>
       <title>Recanting of Previous Reports of Alcohol Consumption within a Large-Scale Clustered Randomised Control Trial</title>
       <link>/publication/percy-2019-recanting/</link>
-      <pubDate>Sun, 18 Aug 2019 15:57:04 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/percy-2019-recanting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug Policy and the Public Good: Second Edition</title>
+      <link>/publication/babordppg/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/babordppg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alcohol Prevention for School Students: Results from a 1-Year Follow up of a Cluster-Randomised Controlled Trial of Harm Minimisation School Drug Education</title>
       <link>/publication/midford-2018-alcohol/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/midford-2018-alcohol/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Exploratory Pilot Study of the Strengthening Families Programme 10--14 (UK)</title>
-      <link>/publication/coombes-2012-exploratory/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/coombes-2012-exploratory/</guid>
+      <title>Developmental Trajectories of Adolescent Risky Drinking: Predictors from the Drug Education in Victoria Schools (DEVS) Study</title>
+      <link>/publication/lester-2018-developmental/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lester-2018-developmental/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Auricular Acupuncture for Cocaine Dependence</title>
-      <link>/publication/gates-2006-auricular/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/gates-2006-auricular/</guid>
+      <title>Steps Towards Alcohol Misuse Prevention Programme (STAMPP): A School-Based and Community-Based Cluster Randomised Controlled Trial</title>
+      <link>/publication/mckay-2018-steps/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mckay-2018-steps/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Behavioral Interventions for Adolescents with Type 1 Diabetes: How Effective Are They?</title>
-      <link>/publication/hampson-2000-behavioral/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/hampson-2000-behavioral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Central Venous Access Sites for the Prevention of Venous Thrombosis, Stenosis and Infection in Patients Requiring Long-Term Intravenous Therapy</title>
-      <link>/publication/hamilton-2007-central/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/hamilton-2007-central/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cochrane Systematic Reviews in the Field of Addiction: What&#39;s There and What Should Be</title>
-      <link>/publication/amato-2011-cochrane/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/amato-2011-cochrane/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cultural Adaptation and Intervention Integrity: A Response to Skärstrand, Sundell and Andréasson</title>
-      <link>/publication/segrott-2014-cultural/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/segrott-2014-cultural/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development and Acceptability of a Co-Produced Online Intervention to Prevent Alcohol Misuse in Adolescents: A Think Aloud Study</title>
-      <link>/publication/davies-2015-jmir/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/davies-2015-jmir/</guid>
+      <title>Steps Towards Alcohol Misuse Prevention Programme (STAMPP): A School-and Community-Based Cluster Randomised Controlled Trial</title>
+      <link>/publication/sumnall-2017-steps/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sumnall-2017-steps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of an Adolescent Alcohol Misuse Intervention Based on the Prototype Willingness Model: A Delphi Study</title>
       <link>/publication/davies-2016-development/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/davies-2016-development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Drug Education in Victorian Schools (DEVS): The Study Protocol for a Harm Reduction Focused School Drug Education Trial</title>
-      <link>/publication/midford-2012-drug/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/midford-2012-drug/</guid>
+      <title>Development and Acceptability of a Co-Produced Online Intervention to Prevent Alcohol Misuse in Adolescents: A Think Aloud Study</title>
+      <link>/publication/davies-2015-jmir/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/davies-2015-jmir/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Drug Policy and the Public Good: A Summary of the Second Edition</title>
-      <link>/publication/babor-2019-drug/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/babor-2019-drug/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drug Policy and the Public Good: Evidence for Effective Interventions</title>
-      <link>/publication/strang-2012-drug/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/strang-2012-drug/</guid>
+      <title>Cultural Adaptation and Intervention Integrity: A Response to Skärstrand, Sundell and Andréasson</title>
+      <link>/publication/segrott-2014-cultural/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/segrott-2014-cultural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fidelity of Implementation of the Strengthening Families Programme 10-14 UK in Wales UK: A Mixed-Method Process Evaluation within a Randomised Controlled trialLaurence Moore</title>
       <link>/publication/segrott-2014-fidelity/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/segrott-2014-fidelity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>International Center for Alcohol Policies (ICAP)&#39;s Latest Report on Alcohol Education: A Flawed Peer Review Process</title>
-      <link>/publication/foxcroft-international-center-alcohol-2005/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-international-center-alcohol-2005/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interventions for Prevention of Drug Use by Young People Delivered in Non-School Settings (Protocol)</title>
-      <link>/publication/mccambridge-2004-interventions/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/mccambridge-2004-interventions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Is Nurse-Led Thrombolysis Clinically Safe, Beneficial and Acceptable?</title>
-      <link>/publication/holland-2000-nurse/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/holland-2000-nurse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Orlistat for the Treatment of Obesity: Cost Utility Model</title>
-      <link>/publication/foxcroft-2004-orlistat/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/foxcroft-2004-orlistat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preventing Alcohol Harm: Early Results from a Cluster Randomised, Controlled Trial in Victoria, Australia of Comprehensive Harm Minimisation School Drug Education</title>
       <link>/publication/midford-2014-preventing/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/midford-2014-preventing/</guid>
       <description></description>
     </item>
@@ -199,72 +127,144 @@
     <item>
       <title>Preventing Substance Misuse: Study Protocol for a Randomised Controlled Trial of the Strengthening Families Programme 10--14 UK (SFP 10--14 UK)</title>
       <link>/publication/segrott-2014-preventing/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/segrott-2014-preventing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Norms Interventions to Reduce Alcohol Misuse in University or College Students</title>
-      <link>/publication/moreira-2009-social/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/moreira-2009-social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steps Towards Alcohol Misuse Prevention Programme (STAMPP): A School-and Community-Based Cluster Randomised Controlled Trial</title>
-      <link>/publication/sumnall-2017-steps/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/sumnall-2017-steps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Steps Towards Alcohol Misuse Prevention Programme (STAMPP): A School-Based and Community-Based Cluster Randomised Controlled Trial</title>
-      <link>/publication/mckay-2018-steps/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/mckay-2018-steps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strengthening Families Programme (10-14UK) Substance Misuse Prevention Programme: Findings from NPRI Randomised Trial of a Proportionate Universalism Adaptation of an Intervention for Families with Children Aged 10-14</title>
       <link>/publication/moore-2014-strengthening/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/moore-2014-strengthening/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Normal and the Abnormal in Adolescent Drinking</title>
-      <link>/publication/lowe-1996-normal/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
-      <guid>/publication/lowe-1996-normal/</guid>
+      <title>An Exploratory Pilot Study of the Strengthening Families Programme 10--14 (UK)</title>
+      <link>/publication/coombes-2012-exploratory/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/coombes-2012-exploratory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug Education in Victorian Schools (DEVS): The Study Protocol for a Harm Reduction Focused School Drug Education Trial</title>
+      <link>/publication/midford-2012-drug/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/midford-2012-drug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug Policy and the Public Good: Evidence for Effective Interventions</title>
+      <link>/publication/strang-2012-drug/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/strang-2012-drug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cochrane Systematic Reviews in the Field of Addiction: What&#39;s There and What Should Be</title>
+      <link>/publication/amato-2011-cochrane/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/amato-2011-cochrane/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Relationship Between Self-Perception of Ability and Actual Ability in Parkinsonian Patients Performing Motor Tasks: A Prospective Study</title>
       <link>/publication/joint-relationship-self-perception-ability-2010/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>/publication/joint-relationship-self-perception-ability-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Norms Interventions to Reduce Alcohol Misuse in University or College Students</title>
+      <link>/publication/moreira-2009-social/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/moreira-2009-social/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Strengthening Families Programme (SFP) 10-14 and Substance Misuse in Barnsley: The Perspectives of Facilitators and Families</title>
       <link>/publication/coombes-2009-strengthening/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>/publication/coombes-2009-strengthening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Central Venous Access Sites for the Prevention of Venous Thrombosis, Stenosis and Infection in Patients Requiring Long-Term Intravenous Therapy</title>
+      <link>/publication/hamilton-2007-central/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/hamilton-2007-central/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auricular Acupuncture for Cocaine Dependence</title>
+      <link>/publication/gates-2006-auricular/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/gates-2006-auricular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Center for Alcohol Policies (ICAP)&#39;s Latest Report on Alcohol Education: A Flawed Peer Review Process</title>
+      <link>/publication/foxcroft-international-center-alcohol-2005/</link>
+      <pubDate>Mon, 01 Aug 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-international-center-alcohol-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interventions for Prevention of Drug Use by Young People Delivered in Non-School Settings (Protocol)</title>
+      <link>/publication/mccambridge-2004-interventions/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/mccambridge-2004-interventions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orlistat for the Treatment of Obesity: Cost Utility Model</title>
+      <link>/publication/foxcroft-2004-orlistat/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/foxcroft-2004-orlistat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral Interventions for Adolescents with Type 1 Diabetes: How Effective Are They?</title>
+      <link>/publication/hampson-2000-behavioral/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/hampson-2000-behavioral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Nurse-Led Thrombolysis Clinically Safe, Beneficial and Acceptable?</title>
+      <link>/publication/holland-2000-nurse/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/holland-2000-nurse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Too Quick to Reject Beta-Interferon Appraisal.</title>
       <link>/publication/foxcroft-2000-too/</link>
-      <pubDate>Sat, 17 Aug 2019 09:48:01 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       <guid>/publication/foxcroft-2000-too/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Normal and the Abnormal in Adolescent Drinking</title>
+      <link>/publication/lowe-1996-normal/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>/publication/lowe-1996-normal/</guid>
       <description></description>
     </item>
     

@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2019-08-27T00:00:00Z"
 external_link: "https://www.brookes.ac.uk/templates/pages/staff.aspx?uid=p0077270"
 image:
   caption: CRUK
@@ -14,6 +14,7 @@ summary: Survey research led by Dr Jo Brett of knowledge and attitudes amongst h
 tags:
 - cancer
 - prevention
+- survey
 title: Health care professionals and E-cigarettes
 url_code: ""
 url_pdf: ""
