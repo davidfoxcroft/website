@@ -1,6 +1,6 @@
 ---
 date: "2019-01-13T00:00:00"
-external_link: www.learnstatswithjamovi.com
+external_link: "http://www.learnstatswithjamovi.com"
 image:
   caption: lsj book cover
   focal_point: Smart
