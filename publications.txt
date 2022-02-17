@@ -1,0 +1,3 @@
+Follow this to generate markdown files for publications from the .bib file (linked from zotero)
+
+https://github.com/wowchemy/hugo-academic-cli
