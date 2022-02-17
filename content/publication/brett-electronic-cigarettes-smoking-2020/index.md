@@ -1,0 +1,13 @@
+---
+title: "Electronic Cigarettes as a Smoking Cessation Aid for Patients with Cancer: Beliefs and Behaviours of Clinicians in the UK"
+date: 2020-11-01
+publishDate: 2022-02-17T14:48:56.490810Z
+authors: ["Jo Brett", "Emma L Davies", "Fiona Matley", "Paul Aveyard", "Mary Wells", "David Foxcroft", "Brian Nicholson", "Shiroma De Silva Minor", "Lesley Sinclair", "Sarah Jakes", "Eila Watson"]
+publication_types: ["2"]
+abstract: "Objectives               To explore UK clinicians’ beliefs and behaviours around recommending e-cigarettes as a smoking cessation aid for patients with cancer.                                         Design               Cross-sectional online survey.                                         Setting               England, Wales, Scotland and Northern Ireland.                                         Participants               Clinicians involved in the care of patients with cancer.                                         Primary and secondary outcomes               Behavioural Change Wheel capability, opportunity and motivation to perform a behaviour, knowledge, beliefs, current practice around e-cigarettes and other smoking cessation practices.                                         Method               Clinicians (n=506) completed an online survey to assess beliefs and behaviours around e-cigarettes and other smoking cessation practices for patients with cancer. Behavioural factors associated with recommending e-cigarettes in practice were assessed.                                         Results               29% of clinicians would not recommend e-cigarettes to patients with cancer who continue to smoke. Factors associated with recommendation include smoking cessation knowledge (OR 1.56, 95% CI 1.01 to 2.44) and e-cigarette knowledge (OR 1.64, 95% CI 1.06 to 2.55), engagement with patients regarding smoking cessation (OR 2.12, 95% CI 1.12 to 4.03), belief in the effectiveness of e-cigarettes (OR 2.36 95% CI 1.61 to 3.47) and belief in sufficient evidence on e-cigarettes (OR 2.08 95% CI 1.10 to 4.00) and how comfortable they felt discussing e-cigarettes with patients (OR 1.57 95% CI 1.04 to 2.36).                                         Conclusion               Many clinicians providing cancer care to patients who smoke do not recommend e-cigarettes as a smoking cessation aid and were unaware of national guidance supporting recommendation of e-cigarettes as a smoking cessation aid."
+featured: false
+publication: "*BMJ Open*"
+url_pdf: "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2020-037637"
+doi: "10.1136/bmjopen-2020-037637"
+---
+
