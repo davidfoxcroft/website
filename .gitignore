@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-resources/_gen/images/project
+resources/_gen/images/project/
 blogdown
 .DS_Store # if a windows user, Thumbs.db instead
 public/ # if using Netlify
