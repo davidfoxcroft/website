@@ -60,13 +60,13 @@ time_format = "15:04"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
 phone = ""
-address = "Room SNC4.03, Headington Campus, Oxford Brookes University, UK"
+address = "" #Room SNC4.03, Headington Campus, Oxford Brookes University, UK"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Office hours for student appointments vary from week to week <br>and are bookable using the link below"""
+office_hours = "" #"Office hours for student appointments vary from week to week <br>and are bookable using the link below"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com/davidfoxcroft/office-hours"
+#appointment_url = "" #"https://calendly.com/davidfoxcroft/office-hours"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
