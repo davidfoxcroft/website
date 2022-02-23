@@ -1,0 +1,6 @@
+#Follow this to generate markdown files for publications from the .bib file (linked from zotero) = see (see https://github.com/wowchemy/hugo-academic-cli
+
+run this from /website folder in terminal
+academic import --bibtex 'My Papers.bib'
+
+
