@@ -3,4 +3,6 @@
 run this from /website folder in terminal
 academic import --bibtex 'My Papers.bib'
 
+change featured flag in index.md for citation in /website/content/publication folder, if required
+
 
